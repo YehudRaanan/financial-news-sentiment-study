@@ -9,3 +9,6 @@ test suite, and rebuilds all 15 example figures.
 
 Live checks confirm that each external boundary worked at the stated time. They cannot freeze a live
 service. A later run can return different GDELT records, page text, Jev output, or Yahoo prices.
+
+The manifest also records the latest successful Windows/Linux GitHub Actions run and a clean-clone
+Windows run. Generated outputs remain ignored.

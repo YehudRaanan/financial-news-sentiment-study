@@ -1,5 +1,5 @@
 {
-  "validated_utc": "2026-10-07T13:55:00Z",
+  "validated_utc": "2026-10-07T14:05:38Z",
   "platform": "Windows-11-10.0.26300-SP0",
   "python": "3.12.7",
   "environment": {
@@ -85,5 +85,24 @@
     "price values",
     "logs",
     "full research data"
-  ]
+  ],
+  "continuous_integration": {
+    "status": "pass",
+    "tested_commit": "e24e3b089731d47ac978130722a7b9514e358608",
+    "run_id": 37633141177,
+    "ubuntu_latest": "pass",
+    "windows_latest": "pass",
+    "locked_all_extras_install": "pass",
+    "pytest": "10 passed",
+    "figures_created": 15
+  },
+  "fresh_clone": {
+    "status": "pass",
+    "tested_commit": "e24e3b089731d47ac978130722a7b9514e358608",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "locked_all_extras_install": "pass",
+    "pytest": "10 passed",
+    "figures_created": 15,
+    "tracked_worktree_clean_after_run": true
+  }
 }
