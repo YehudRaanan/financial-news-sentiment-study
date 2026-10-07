@@ -49,3 +49,11 @@ Therefore, a clone can run the locked synthetic example and all offline tests ex
 run the full source path when the user supplies Google Cloud and TypeSafe credentials and the live
 services remain available. A live rerun validates the method and software path; it does not recreate
 the historical corpus byte for byte.
+
+## License
+
+The source code, configuration files, and synthetic example data are available under the
+[MIT License](LICENSE).
+
+The final report and figures are available under the
+[Creative Commons Attribution 4.0 International License](LICENSE-CONTENT.md).

@@ -7,6 +7,7 @@ name = "financial-news-sentiment-study"
 version = "1.0.0"
 description = "Reproducible analysis and figures for the financial-news sentiment study"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.12,<3.13"
 dependencies = [
   "matplotlib==3.10.9",
