@@ -1,6 +1,6 @@
 # Financial-news sentiment and stock returns
 
-This repository contains the final report, its 15 figures, and clean code for the final study path. It does not contain article bodies, research datasets, provider responses, credentials, logs, intermediate files, or abandoned experiments.
+This repository contains the final report, its 15 figures, and code for the study path.
 
 ## Final outputs
 
@@ -43,13 +43,9 @@ The commands and data contracts are in [REPRODUCIBILITY.md](REPRODUCIBILITY.md) 
 
 The synthetic example is exactly reproducible with the locked software environment. The analysis and graph code is deterministic for fixed input files.
 
-An exact new copy of the historical corpus cannot be guaranteed from live sources. Web pages, GDELT records, Yahoo Finance data, and hosted model services can change or become unavailable. The private research inputs are also not in this repository. A user who has the frozen inputs can verify their checksums and reproduce the analysis and figures. A user who collects the sources again creates a new study run.
+An exact new copy of the historical corpus cannot be guaranteed from live sources. Web pages, GDELT records, Yahoo Finance data, and hosted model services can change or become unavailable. The research inputs are not in this repository. A user who has the frozen inputs can verify their checksums and reproduce the analysis and figures. A user who collects the sources again creates a new study run.
 
 Therefore, a clone can run the locked synthetic example and all offline tests exactly. It can also
 run the full source path when the user supplies Google Cloud and TypeSafe credentials and the live
 services remain available. A live rerun validates the method and software path; it does not recreate
 the historical corpus byte for byte.
-
-## Public release status
-
-The repository starts as private. Before public release, select a license, confirm permission for every included report element, and run the checks in [PUBLIC_RELEASE_CHECKLIST.md](PUBLIC_RELEASE_CHECKLIST.md).
