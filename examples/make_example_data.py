@@ -108,7 +108,10 @@ def build(output: Path) -> None:
                     "adjusted_future7": after + rng.normal(0, 0.002),
                 }
             )
-    csv_options = {"index": False, "lineterminator": "\n"}
+    # Fixed text precision keeps the synthetic files identical across operating
+    # systems and BLAS implementations while preserving more precision than the
+    # report displays.
+    csv_options = {"index": False, "lineterminator": "\n", "float_format": "%.10f"}
     pd.DataFrame(articles).to_csv(output / "articles.csv", date_format="%Y-%m-%d", **csv_options)
     pd.DataFrame(pairs).to_csv(
         output / "sentiment_pairs.csv", date_format="%Y-%m-%d", **csv_options
