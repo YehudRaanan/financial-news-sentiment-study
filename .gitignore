@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+.env
+.env.*
+!.env.example
+
+# Full research inputs and generated run state are local only.
+/data/
+outputs/
+logs/
+checkpoints/
+*.log
+*.sqlite*
+*.jsonl*
+*.parquet
+*.feather
+*.pkl
+*.pickle
+
+# Office and editor temporary files.
+~$*
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

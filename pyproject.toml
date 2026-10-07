@@ -1,0 +1,57 @@
+[build-system]
+requires = ["hatchling==1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "financial-news-sentiment-study"
+version = "1.0.0"
+description = "Reproducible analysis and figures for the financial-news sentiment study"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "matplotlib==3.10.9",
+  "numpy==2.4.6",
+  "pandas==2.3.1",
+  "pyarrow==24.0.0",
+  "scipy==1.17.1",
+]
+
+[project.optional-dependencies]
+collect = [
+  "google-cloud-bigquery==3.38.0",
+  "trafilatura==1.12.2",
+  "yfinance==1.2.1",
+]
+identity = [
+  "refined @ git+https://github.com/amazon-science/ReFinED.git@7c98036f72c39a8d6d2c097bbde89ea3731901f0",
+  "torch==2.7.1",
+  "transformers==5.6.2",
+]
+dev = [
+  "pytest==9.0.2",
+  "ruff==0.15.6",
+]
+
+[project.scripts]
+fns-analysis = "financial_news_sentiment.analysis:main"
+fns-figures = "financial_news_sentiment.figures:main"
+fns-panel = "financial_news_sentiment.panel:main"
+fns-sources = "financial_news_sentiment.sources:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/financial_news_sentiment"]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.pytest.ini_options]
+addopts = "-q"
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

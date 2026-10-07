@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or report, cite this repository."
+title: "Financial-news sentiment and stock returns"
+type: software
+version: 1.0.0
+date-released: 2026-10-07
+authors:
+  - family-names: "Raanan"
+    given-names: "Yehud"
+repository-code: "https://github.com/YehudRaanan/financial-news-sentiment-study"

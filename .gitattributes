@@ -1,0 +1,12 @@
+*.docx binary
+*.pdf binary
+*.png binary
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.cff text eol=lf
+*.csv text eol=lf
+.env.example text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.python-version text eol=lf
