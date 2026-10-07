@@ -112,6 +112,25 @@ def _cluster_variance(
     return finite_sample_adjustment * (company + block - intersection)
 
 
+def _fixed_effect_rank(frame: pd.DataFrame) -> int:
+    """Return the rank of company and date indicators, including disconnected panels."""
+    parent: dict[str, str] = {}
+
+    def find(value: str) -> str:
+        parent.setdefault(value, value)
+        while parent[value] != value:
+            parent[value] = parent[parent[value]]
+            value = parent[value]
+        return value
+
+    for issuer, date in set(zip(frame["issuer"], frame["date"], strict=False)):
+        company = find(f"i:{issuer}")
+        period = find(f"d:{date}")
+        parent[company] = period
+    components = len({find(value) for value in parent})
+    return frame["issuer"].nunique() + frame["date"].nunique() - components
+
+
 def fit_period(frame: pd.DataFrame, outcome: str) -> list[dict[str, float | int | str]]:
     """Fit the joint positive and negative share model for one sample."""
     names = [*FOCAL_TERMS, *BASE_CONTROLS]
@@ -138,7 +157,7 @@ def fit_period(frame: pd.DataFrame, outcome: str) -> list[dict[str, float | int 
     beta = bread @ (x.T @ y)
     residual = y - x @ beta
     influence = (x * residual[:, None]) @ bread
-    fixed_effect_rank = frame["issuer"].nunique() + frame["date"].nunique() - 1
+    fixed_effect_rank = _fixed_effect_rank(frame)
     adjustment = (len(frame) - 1) / max(1, len(frame) - fixed_effect_rank - len(kept_names))
     degrees = min(frame["issuer"].nunique(), frame["calendar_block"].nunique()) - 1
     critical = t.ppf(0.975, degrees)

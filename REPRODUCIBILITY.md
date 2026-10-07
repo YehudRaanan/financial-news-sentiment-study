@@ -8,18 +8,35 @@
 - Run commands from the repository root with `uv run`.
 - Full source collection needs Google Cloud credentials, a GDELT BigQuery project, network access, and a TypeSafe API key.
 
+## Clone validation
+
+Run the same offline gate used by GitHub Actions:
+
+```powershell
+uv sync --frozen --all-extras
+uv run python examples/make_example_data.py
+uv run ruff check .
+uv run pytest
+uv run python examples/reproduce_example.py --output outputs/example
+```
+
+This gate needs no credential and makes no external call. The current workflow runs it on Windows
+and Linux. See `validation/manifest.json` for the latest sanitized live smoke-test result.
+
 ## Input sequence
 
 ### 1. Discover GDELT records
 
-Prepare `aliases.csv` with `alias,ticker`. Then run:
+Use the included `config/alias_ticker.csv`, or prepare another CSV with `alias,ticker`. Then run:
 
 ```powershell
 uv sync --frozen --extra collect
-uv run fns-sources discover --aliases aliases.csv --project YOUR_GCP_PROJECT --start 2023-01-01 --end 2026-06-18 --output data/work_queue.parquet
+uv run fns-sources discover --aliases config/alias_ticker.csv --project YOUR_GCP_PROJECT --start 2023-01-01 --end 2026-06-18 --maximum-bytes-billed 50000000000 --output data/work_queue.parquet
 ```
 
-The final study has no GDELT records from 15 June through 1 July 2025. Do not add the separately recovered publisher-dated records.
+The query also applies the original URL fallback for 11 hard-to-detect ticker or company slugs. The
+final study has no GDELT records from 15 June through 1 July 2025. Do not add the separately recovered
+publisher-dated records.
 
 ### 2. Extract article text
 
@@ -33,11 +50,11 @@ The extractor keeps one normalized body per content hash. Live pages can change,
 
 Use a registry JSON with `cik`, `issuer`, `canonical_name`, `tickers`, and `wikipedia_titles` for each company.
 
-The historical run used ReFinED 1.0 at commit `7c98036f72c39a8d6d2c097bbde89ea3731901f0`, model `wikipedia_model_with_numbers`, entity set `wikipedia`, and a post-ReFinED `exchange:ticker` fallback only when ReFinED found no registry company. The command implements both stages.
+The historical run used ReFinED at commit `7c98036f72c39a8d6d2c097bbde89ea3731901f0`, model `aida_model`, entity set `wikipedia`, and a post-ReFinED `exchange:ticker` fallback only when ReFinED found no registry company. The command implements both stages.
 
 ```powershell
 uv sync --frozen --extra identity
-uv run fns-sources link --articles data/articles.parquet --registry company_registry.json --output data/article_company.parquet
+uv run fns-sources link --articles data/articles.parquet --registry config/company_registry.json --output data/article_company.parquet
 ```
 
 ### 4. Assess sentiment
@@ -56,13 +73,13 @@ The fixed model is `jev-1.13.0`. A future service response can differ from the h
 Prepare a CSV that maps one analysis ticker to each issuer. Download prices with the saved study settings:
 
 ```powershell
-uv run fns-sources prices --registry price_tickers.csv --start 2022-12-01 --end 2026-10-01 --output data/adjusted_prices.parquet
+uv run fns-sources prices --registry config/price_tickers.csv --start 2022-12-01 --end 2026-10-01 --output data/adjusted_prices.parquet
 ```
 
 Then build the panel:
 
 ```powershell
-uv run fns-panel --pairs data/sentiment_pairs.parquet --prices data/adjusted_prices.parquet --registry company_sectors.csv --output data/analysis_panel.parquet
+uv run fns-panel --pairs data/sentiment_pairs.parquet --prices data/adjusted_prices.parquet --registry config/company_sectors.csv --output data/analysis_panel.parquet
 ```
 
 The panel code uses:

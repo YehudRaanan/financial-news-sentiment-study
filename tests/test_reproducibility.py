@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 from pathlib import Path
 
 import numpy as np
@@ -12,6 +13,18 @@ from financial_news_sentiment.figures import main as figures_main
 
 ROOT = Path(__file__).resolve().parents[1]
 EXAMPLE = ROOT / "examples" / "data"
+
+
+def test_packaged_company_configuration_is_complete() -> None:
+    registry = json.loads((ROOT / "config" / "company_registry.json").read_text(encoding="utf-8"))
+    sectors = pd.read_csv(ROOT / "config" / "company_sectors.csv")
+    prices = pd.read_csv(ROOT / "config" / "price_tickers.csv")
+    aliases = pd.read_csv(ROOT / "config" / "alias_ticker.csv")
+    assert len(registry) == len(sectors) == len(prices) == 500
+    assert len(aliases) == 688
+    assert len({company["cik"] for company in registry}) == 500
+    assert sectors["issuer"].is_unique and prices["issuer"].is_unique
+    assert {company["issuer"] for company in registry} == set(sectors["issuer"])
 
 
 def test_example_inputs_rebuild_byte_for_byte(tmp_path: Path) -> None:

@@ -1,0 +1,5505 @@
+[
+  {
+    "cik": "0000001800",
+    "issuer": "ABT",
+    "canonical_name": "Abbott Laboratories",
+    "tickers": [
+      "ABT"
+    ],
+    "wikipedia_titles": [
+      "Abbott Laboratories"
+    ]
+  },
+  {
+    "cik": "0000002488",
+    "issuer": "AMD",
+    "canonical_name": "Advanced Micro Devices",
+    "tickers": [
+      "AMD"
+    ],
+    "wikipedia_titles": [
+      "AMD"
+    ]
+  },
+  {
+    "cik": "0000002969",
+    "issuer": "APD",
+    "canonical_name": "Air Products",
+    "tickers": [
+      "APD"
+    ],
+    "wikipedia_titles": [
+      "Air Products"
+    ]
+  },
+  {
+    "cik": "0000004127",
+    "issuer": "SWKS",
+    "canonical_name": "Skyworks Solutions",
+    "tickers": [
+      "SWKS"
+    ],
+    "wikipedia_titles": [
+      "Skyworks Solutions"
+    ]
+  },
+  {
+    "cik": "0000004281",
+    "issuer": "HWM",
+    "canonical_name": "Howmet Aerospace",
+    "tickers": [
+      "HWM"
+    ],
+    "wikipedia_titles": [
+      "Howmet Aerospace"
+    ]
+  },
+  {
+    "cik": "0000004904",
+    "issuer": "AEP",
+    "canonical_name": "American Electric Power",
+    "tickers": [
+      "AEP"
+    ],
+    "wikipedia_titles": [
+      "American Electric Power"
+    ]
+  },
+  {
+    "cik": "0000004962",
+    "issuer": "AXP",
+    "canonical_name": "American Express",
+    "tickers": [
+      "AXP"
+    ],
+    "wikipedia_titles": [
+      "American Express"
+    ]
+  },
+  {
+    "cik": "0000004977",
+    "issuer": "AFL",
+    "canonical_name": "Aflac",
+    "tickers": [
+      "AFL"
+    ],
+    "wikipedia_titles": [
+      "Aflac"
+    ]
+  },
+  {
+    "cik": "0000005272",
+    "issuer": "AIG",
+    "canonical_name": "American International Group",
+    "tickers": [
+      "AIG"
+    ],
+    "wikipedia_titles": [
+      "American International Group"
+    ]
+  },
+  {
+    "cik": "0000006281",
+    "issuer": "ADI",
+    "canonical_name": "Analog Devices",
+    "tickers": [
+      "ADI"
+    ],
+    "wikipedia_titles": [
+      "Analog Devices"
+    ]
+  },
+  {
+    "cik": "0000006951",
+    "issuer": "AMAT",
+    "canonical_name": "Applied Materials",
+    "tickers": [
+      "AMAT"
+    ],
+    "wikipedia_titles": [
+      "Applied Materials"
+    ]
+  },
+  {
+    "cik": "0000007084",
+    "issuer": "ADM",
+    "canonical_name": "Archer Daniels Midland",
+    "tickers": [
+      "ADM"
+    ],
+    "wikipedia_titles": [
+      "Archer Daniels Midland"
+    ]
+  },
+  {
+    "cik": "0000008670",
+    "issuer": "ADP",
+    "canonical_name": "Automatic Data Processing",
+    "tickers": [
+      "ADP"
+    ],
+    "wikipedia_titles": [
+      "ADP (company)"
+    ]
+  },
+  {
+    "cik": "0000008818",
+    "issuer": "AVY",
+    "canonical_name": "Avery Dennison",
+    "tickers": [
+      "AVY"
+    ],
+    "wikipedia_titles": [
+      "Avery Dennison"
+    ]
+  },
+  {
+    "cik": "0000009389",
+    "issuer": "BALL",
+    "canonical_name": "Ball Corporation",
+    "tickers": [
+      "BALL"
+    ],
+    "wikipedia_titles": [
+      "Ball Corporation"
+    ]
+  },
+  {
+    "cik": "0000010456",
+    "issuer": "BAX",
+    "canonical_name": "Baxter International",
+    "tickers": [
+      "BAX"
+    ],
+    "wikipedia_titles": [
+      "Baxter International"
+    ]
+  },
+  {
+    "cik": "0000010795",
+    "issuer": "BDX",
+    "canonical_name": "Becton Dickinson",
+    "tickers": [
+      "BDX"
+    ],
+    "wikipedia_titles": [
+      "BD (company)"
+    ]
+  },
+  {
+    "cik": "0000011544",
+    "issuer": "WRB",
+    "canonical_name": "W. R. Berkley Corporation",
+    "tickers": [
+      "WRB"
+    ],
+    "wikipedia_titles": [
+      "W. R. Berkley Corporation"
+    ]
+  },
+  {
+    "cik": "0000012927",
+    "issuer": "BA",
+    "canonical_name": "Boeing",
+    "tickers": [
+      "BA"
+    ],
+    "wikipedia_titles": [
+      "Boeing"
+    ]
+  },
+  {
+    "cik": "0000014272",
+    "issuer": "BMY",
+    "canonical_name": "Bristol Myers Squibb",
+    "tickers": [
+      "BMY"
+    ],
+    "wikipedia_titles": [
+      "Bristol Myers Squibb"
+    ]
+  },
+  {
+    "cik": "0000014693",
+    "issuer": "BF.B",
+    "canonical_name": "Brown–Forman",
+    "tickers": [
+      "BF.B"
+    ],
+    "wikipedia_titles": [
+      "Brown-Forman"
+    ]
+  },
+  {
+    "cik": "0000016732",
+    "issuer": "CPB",
+    "canonical_name": "Campbell's Company (The)",
+    "tickers": [
+      "CPB"
+    ],
+    "wikipedia_titles": [
+      "Campbell's"
+    ]
+  },
+  {
+    "cik": "0000016918",
+    "issuer": "STZ",
+    "canonical_name": "Constellation Brands",
+    "tickers": [
+      "STZ"
+    ],
+    "wikipedia_titles": [
+      "Constellation Brands"
+    ]
+  },
+  {
+    "cik": "0000018230",
+    "issuer": "CAT",
+    "canonical_name": "Caterpillar Inc.",
+    "tickers": [
+      "CAT"
+    ],
+    "wikipedia_titles": [
+      "Caterpillar Inc."
+    ]
+  },
+  {
+    "cik": "0000019617",
+    "issuer": "JPM",
+    "canonical_name": "JPMorgan Chase",
+    "tickers": [
+      "JPM"
+    ],
+    "wikipedia_titles": [
+      "JPMorgan Chase"
+    ]
+  },
+  {
+    "cik": "0000020286",
+    "issuer": "CINF",
+    "canonical_name": "Cincinnati Financial",
+    "tickers": [
+      "CINF"
+    ],
+    "wikipedia_titles": [
+      "Cincinnati Financial"
+    ]
+  },
+  {
+    "cik": "0000021076",
+    "issuer": "CLX",
+    "canonical_name": "Clorox",
+    "tickers": [
+      "CLX"
+    ],
+    "wikipedia_titles": [
+      "Clorox"
+    ]
+  },
+  {
+    "cik": "0000021344",
+    "issuer": "KO",
+    "canonical_name": "Coca-Cola Company (The)",
+    "tickers": [
+      "KO"
+    ],
+    "wikipedia_titles": [
+      "The Coca-Cola Company"
+    ]
+  },
+  {
+    "cik": "0000021665",
+    "issuer": "CL",
+    "canonical_name": "Colgate-Palmolive",
+    "tickers": [
+      "CL"
+    ],
+    "wikipedia_titles": [
+      "Colgate-Palmolive"
+    ]
+  },
+  {
+    "cik": "0000023217",
+    "issuer": "CAG",
+    "canonical_name": "Conagra Brands",
+    "tickers": [
+      "CAG"
+    ],
+    "wikipedia_titles": [
+      "Conagra Brands"
+    ]
+  },
+  {
+    "cik": "0000024545",
+    "issuer": "TAP",
+    "canonical_name": "Molson Coors Beverage Company",
+    "tickers": [
+      "TAP"
+    ],
+    "wikipedia_titles": [
+      "Molson Coors"
+    ]
+  },
+  {
+    "cik": "0000024741",
+    "issuer": "GLW",
+    "canonical_name": "Corning Inc.",
+    "tickers": [
+      "GLW"
+    ],
+    "wikipedia_titles": [
+      "Corning Inc."
+    ]
+  },
+  {
+    "cik": "0000026172",
+    "issuer": "CMI",
+    "canonical_name": "Cummins",
+    "tickers": [
+      "CMI"
+    ],
+    "wikipedia_titles": [
+      "Cummins"
+    ]
+  },
+  {
+    "cik": "0000027419",
+    "issuer": "TGT",
+    "canonical_name": "Target Corporation",
+    "tickers": [
+      "TGT"
+    ],
+    "wikipedia_titles": [
+      "Target Corporation"
+    ]
+  },
+  {
+    "cik": "0000027904",
+    "issuer": "DAL",
+    "canonical_name": "Delta Air Lines",
+    "tickers": [
+      "DAL"
+    ],
+    "wikipedia_titles": [
+      "Delta Air Lines"
+    ]
+  },
+  {
+    "cik": "0000029534",
+    "issuer": "DG",
+    "canonical_name": "Dollar General",
+    "tickers": [
+      "DG"
+    ],
+    "wikipedia_titles": [
+      "Dollar General"
+    ]
+  },
+  {
+    "cik": "0000029905",
+    "issuer": "DOV",
+    "canonical_name": "Dover Corporation",
+    "tickers": [
+      "DOV"
+    ],
+    "wikipedia_titles": [
+      "Dover Corporation"
+    ]
+  },
+  {
+    "cik": "0000029989",
+    "issuer": "OMC",
+    "canonical_name": "Omnicom Group",
+    "tickers": [
+      "OMC"
+    ],
+    "wikipedia_titles": [
+      "Omnicom Group"
+    ]
+  },
+  {
+    "cik": "0000031462",
+    "issuer": "ECL",
+    "canonical_name": "Ecolab",
+    "tickers": [
+      "ECL"
+    ],
+    "wikipedia_titles": [
+      "Ecolab"
+    ]
+  },
+  {
+    "cik": "0000031791",
+    "issuer": "RVTY",
+    "canonical_name": "Revvity",
+    "tickers": [
+      "RVTY"
+    ],
+    "wikipedia_titles": [
+      "Revvity"
+    ]
+  },
+  {
+    "cik": "0000032604",
+    "issuer": "EMR",
+    "canonical_name": "Emerson Electric",
+    "tickers": [
+      "EMR"
+    ],
+    "wikipedia_titles": [
+      "Emerson Electric"
+    ]
+  },
+  {
+    "cik": "0000033185",
+    "issuer": "EFX",
+    "canonical_name": "Equifax",
+    "tickers": [
+      "EFX"
+    ],
+    "wikipedia_titles": [
+      "Equifax"
+    ]
+  },
+  {
+    "cik": "0000033213",
+    "issuer": "EQT",
+    "canonical_name": "EQT Corporation",
+    "tickers": [
+      "EQT"
+    ],
+    "wikipedia_titles": [
+      "EQT Corporation"
+    ]
+  },
+  {
+    "cik": "0000034088",
+    "issuer": "XOM",
+    "canonical_name": "ExxonMobil",
+    "tickers": [
+      "XOM"
+    ],
+    "wikipedia_titles": [
+      "ExxonMobil"
+    ]
+  },
+  {
+    "cik": "0000034903",
+    "issuer": "FRT",
+    "canonical_name": "Federal Realty Investment Trust",
+    "tickers": [
+      "FRT"
+    ],
+    "wikipedia_titles": [
+      "Federal Realty Investment Trust"
+    ]
+  },
+  {
+    "cik": "0000035527",
+    "issuer": "FITB",
+    "canonical_name": "Fifth Third Bancorp",
+    "tickers": [
+      "FITB"
+    ],
+    "wikipedia_titles": [
+      "Fifth Third Bank"
+    ]
+  },
+  {
+    "cik": "0000036104",
+    "issuer": "USB",
+    "canonical_name": "U.S. Bancorp",
+    "tickers": [
+      "USB"
+    ],
+    "wikipedia_titles": [
+      "U.S. Bancorp"
+    ]
+  },
+  {
+    "cik": "0000036270",
+    "issuer": "MTB",
+    "canonical_name": "M&T Bank",
+    "tickers": [
+      "MTB"
+    ],
+    "wikipedia_titles": [
+      "M&T Bank"
+    ]
+  },
+  {
+    "cik": "0000037996",
+    "issuer": "F",
+    "canonical_name": "Ford Motor Company",
+    "tickers": [
+      "F"
+    ],
+    "wikipedia_titles": [
+      "Ford Motor Company"
+    ]
+  },
+  {
+    "cik": "0000038777",
+    "issuer": "BEN",
+    "canonical_name": "Franklin Resources",
+    "tickers": [
+      "BEN"
+    ],
+    "wikipedia_titles": [
+      "Franklin Templeton"
+    ]
+  },
+  {
+    "cik": "0000040533",
+    "issuer": "GD",
+    "canonical_name": "General Dynamics",
+    "tickers": [
+      "GD"
+    ],
+    "wikipedia_titles": [
+      "General Dynamics"
+    ]
+  },
+  {
+    "cik": "0000040545",
+    "issuer": "GE",
+    "canonical_name": "GE Aerospace",
+    "tickers": [
+      "GE"
+    ],
+    "wikipedia_titles": [
+      "GE Aerospace"
+    ]
+  },
+  {
+    "cik": "0000040704",
+    "issuer": "GIS",
+    "canonical_name": "General Mills",
+    "tickers": [
+      "GIS"
+    ],
+    "wikipedia_titles": [
+      "General Mills"
+    ]
+  },
+  {
+    "cik": "0000040987",
+    "issuer": "GPC",
+    "canonical_name": "Genuine Parts Company",
+    "tickers": [
+      "GPC"
+    ],
+    "wikipedia_titles": [
+      "Genuine Parts Company"
+    ]
+  },
+  {
+    "cik": "0000045012",
+    "issuer": "HAL",
+    "canonical_name": "Halliburton",
+    "tickers": [
+      "HAL"
+    ],
+    "wikipedia_titles": [
+      "Halliburton"
+    ]
+  },
+  {
+    "cik": "0000046080",
+    "issuer": "HAS",
+    "canonical_name": "Hasbro",
+    "tickers": [
+      "HAS"
+    ],
+    "wikipedia_titles": [
+      "Hasbro"
+    ]
+  },
+  {
+    "cik": "0000047111",
+    "issuer": "HSY",
+    "canonical_name": "Hershey Company (The)",
+    "tickers": [
+      "HSY"
+    ],
+    "wikipedia_titles": [
+      "The Hershey Company"
+    ]
+  },
+  {
+    "cik": "0000047217",
+    "issuer": "HPQ",
+    "canonical_name": "HP Inc.",
+    "tickers": [
+      "HPQ"
+    ],
+    "wikipedia_titles": [
+      "HP Inc."
+    ]
+  },
+  {
+    "cik": "0000048465",
+    "issuer": "HRL",
+    "canonical_name": "Hormel Foods",
+    "tickers": [
+      "HRL"
+    ],
+    "wikipedia_titles": [
+      "Hormel Foods"
+    ]
+  },
+  {
+    "cik": "0000048898",
+    "issuer": "HUBB",
+    "canonical_name": "Hubbell Incorporated",
+    "tickers": [
+      "HUBB"
+    ],
+    "wikipedia_titles": [
+      "Hubbell Incorporated"
+    ]
+  },
+  {
+    "cik": "0000049071",
+    "issuer": "HUM",
+    "canonical_name": "Humana",
+    "tickers": [
+      "HUM"
+    ],
+    "wikipedia_titles": [
+      "Humana"
+    ]
+  },
+  {
+    "cik": "0000049196",
+    "issuer": "HBAN",
+    "canonical_name": "Huntington Bancshares",
+    "tickers": [
+      "HBAN"
+    ],
+    "wikipedia_titles": [
+      "Huntington Bancshares"
+    ]
+  },
+  {
+    "cik": "0000049826",
+    "issuer": "ITW",
+    "canonical_name": "Illinois Tool Works",
+    "tickers": [
+      "ITW"
+    ],
+    "wikipedia_titles": [
+      "Illinois Tool Works"
+    ]
+  },
+  {
+    "cik": "0000050863",
+    "issuer": "INTC",
+    "canonical_name": "Intel",
+    "tickers": [
+      "INTC"
+    ],
+    "wikipedia_titles": [
+      "Intel"
+    ]
+  },
+  {
+    "cik": "0000051143",
+    "issuer": "IBM",
+    "canonical_name": "IBM",
+    "tickers": [
+      "IBM"
+    ],
+    "wikipedia_titles": [
+      "IBM"
+    ]
+  },
+  {
+    "cik": "0000051253",
+    "issuer": "IFF",
+    "canonical_name": "International Flavors & Fragrances",
+    "tickers": [
+      "IFF"
+    ],
+    "wikipedia_titles": [
+      "International Flavors & Fragrances"
+    ]
+  },
+  {
+    "cik": "0000051434",
+    "issuer": "IP",
+    "canonical_name": "International Paper",
+    "tickers": [
+      "IP"
+    ],
+    "wikipedia_titles": [
+      "International Paper"
+    ]
+  },
+  {
+    "cik": "0000052988",
+    "issuer": "J",
+    "canonical_name": "Jacobs Solutions",
+    "tickers": [
+      "J"
+    ],
+    "wikipedia_titles": [
+      "Jacobs Solutions"
+    ]
+  },
+  {
+    "cik": "0000055785",
+    "issuer": "KMB",
+    "canonical_name": "Kimberly-Clark",
+    "tickers": [
+      "KMB"
+    ],
+    "wikipedia_titles": [
+      "Kimberly-Clark"
+    ]
+  },
+  {
+    "cik": "0000056873",
+    "issuer": "KR",
+    "canonical_name": "Kroger",
+    "tickers": [
+      "KR"
+    ],
+    "wikipedia_titles": [
+      "Kroger"
+    ]
+  },
+  {
+    "cik": "0000059478",
+    "issuer": "LLY",
+    "canonical_name": "Lilly (Eli)",
+    "tickers": [
+      "LLY"
+    ],
+    "wikipedia_titles": [
+      "Eli Lilly and Company"
+    ]
+  },
+  {
+    "cik": "0000060086",
+    "issuer": "L",
+    "canonical_name": "Loews Corporation",
+    "tickers": [
+      "L"
+    ],
+    "wikipedia_titles": [
+      "Loews Corporation"
+    ]
+  },
+  {
+    "cik": "0000060667",
+    "issuer": "LOW",
+    "canonical_name": "Lowe's",
+    "tickers": [
+      "LOW"
+    ],
+    "wikipedia_titles": [
+      "Lowe's"
+    ]
+  },
+  {
+    "cik": "0000062709",
+    "issuer": "MRSH",
+    "canonical_name": "Marsh McLennan",
+    "tickers": [
+      "MRSH"
+    ],
+    "wikipedia_titles": [
+      "Marsh McLennan"
+    ]
+  },
+  {
+    "cik": "0000062996",
+    "issuer": "MAS",
+    "canonical_name": "Masco",
+    "tickers": [
+      "MAS"
+    ],
+    "wikipedia_titles": [
+      "Masco"
+    ]
+  },
+  {
+    "cik": "0000063754",
+    "issuer": "MKC",
+    "canonical_name": "McCormick & Company",
+    "tickers": [
+      "MKC"
+    ],
+    "wikipedia_titles": [
+      "McCormick & Company"
+    ]
+  },
+  {
+    "cik": "0000063908",
+    "issuer": "MCD",
+    "canonical_name": "McDonald's",
+    "tickers": [
+      "MCD"
+    ],
+    "wikipedia_titles": [
+      "McDonald's"
+    ]
+  },
+  {
+    "cik": "0000064040",
+    "issuer": "SPGI",
+    "canonical_name": "S&P Global",
+    "tickers": [
+      "SPGI"
+    ],
+    "wikipedia_titles": [
+      "S&P Global"
+    ]
+  },
+  {
+    "cik": "0000064803",
+    "issuer": "CVS",
+    "canonical_name": "CVS Health",
+    "tickers": [
+      "CVS"
+    ],
+    "wikipedia_titles": [
+      "CVS Health"
+    ]
+  },
+  {
+    "cik": "0000065984",
+    "issuer": "ETR",
+    "canonical_name": "Entergy",
+    "tickers": [
+      "ETR"
+    ],
+    "wikipedia_titles": [
+      "Entergy"
+    ]
+  },
+  {
+    "cik": "0000066740",
+    "issuer": "MMM",
+    "canonical_name": "3M",
+    "tickers": [
+      "MMM"
+    ],
+    "wikipedia_titles": [
+      "3M"
+    ]
+  },
+  {
+    "cik": "0000068505",
+    "issuer": "MSI",
+    "canonical_name": "Motorola Solutions",
+    "tickers": [
+      "MSI"
+    ],
+    "wikipedia_titles": [
+      "Motorola Solutions"
+    ]
+  },
+  {
+    "cik": "0000070858",
+    "issuer": "BAC",
+    "canonical_name": "Bank of America",
+    "tickers": [
+      "BAC"
+    ],
+    "wikipedia_titles": [
+      "Bank of America"
+    ]
+  },
+  {
+    "cik": "0000072331",
+    "issuer": "NDSN",
+    "canonical_name": "Nordson Corporation",
+    "tickers": [
+      "NDSN"
+    ],
+    "wikipedia_titles": [
+      "Nordson Corporation"
+    ]
+  },
+  {
+    "cik": "0000072741",
+    "issuer": "ES",
+    "canonical_name": "Eversource Energy",
+    "tickers": [
+      "ES"
+    ],
+    "wikipedia_titles": [
+      "Eversource Energy"
+    ]
+  },
+  {
+    "cik": "0000072903",
+    "issuer": "XEL",
+    "canonical_name": "Xcel Energy",
+    "tickers": [
+      "XEL"
+    ],
+    "wikipedia_titles": [
+      "Xcel Energy"
+    ]
+  },
+  {
+    "cik": "0000072971",
+    "issuer": "WFC",
+    "canonical_name": "Wells Fargo",
+    "tickers": [
+      "WFC"
+    ],
+    "wikipedia_titles": [
+      "Wells Fargo"
+    ]
+  },
+  {
+    "cik": "0000073124",
+    "issuer": "NTRS",
+    "canonical_name": "Northern Trust",
+    "tickers": [
+      "NTRS"
+    ],
+    "wikipedia_titles": [
+      "Northern Trust"
+    ]
+  },
+  {
+    "cik": "0000073309",
+    "issuer": "NUE",
+    "canonical_name": "Nucor",
+    "tickers": [
+      "NUE"
+    ],
+    "wikipedia_titles": [
+      "Nucor"
+    ]
+  },
+  {
+    "cik": "0000074208",
+    "issuer": "UDR",
+    "canonical_name": "UDR, Inc.",
+    "tickers": [
+      "UDR"
+    ],
+    "wikipedia_titles": [
+      "UDR, Inc."
+    ]
+  },
+  {
+    "cik": "0000075362",
+    "issuer": "PCAR",
+    "canonical_name": "Paccar",
+    "tickers": [
+      "PCAR"
+    ],
+    "wikipedia_titles": [
+      "Paccar"
+    ]
+  },
+  {
+    "cik": "0000075677",
+    "issuer": "PKG",
+    "canonical_name": "Packaging Corporation of America",
+    "tickers": [
+      "PKG"
+    ],
+    "wikipedia_titles": [
+      "Packaging Corporation of America"
+    ]
+  },
+  {
+    "cik": "0000076334",
+    "issuer": "PH",
+    "canonical_name": "Parker Hannifin",
+    "tickers": [
+      "PH"
+    ],
+    "wikipedia_titles": [
+      "Parker Hannifin"
+    ]
+  },
+  {
+    "cik": "0000077360",
+    "issuer": "PNR",
+    "canonical_name": "Pentair",
+    "tickers": [
+      "PNR"
+    ],
+    "wikipedia_titles": [
+      "Pentair"
+    ]
+  },
+  {
+    "cik": "0000077476",
+    "issuer": "PEP",
+    "canonical_name": "PepsiCo",
+    "tickers": [
+      "PEP"
+    ],
+    "wikipedia_titles": [
+      "PepsiCo"
+    ]
+  },
+  {
+    "cik": "0000078003",
+    "issuer": "PFE",
+    "canonical_name": "Pfizer",
+    "tickers": [
+      "PFE"
+    ],
+    "wikipedia_titles": [
+      "Pfizer"
+    ]
+  },
+  {
+    "cik": "0000079282",
+    "issuer": "BRO",
+    "canonical_name": "Brown & Brown",
+    "tickers": [
+      "BRO"
+    ],
+    "wikipedia_titles": [
+      "Brown & Brown"
+    ]
+  },
+  {
+    "cik": "0000079879",
+    "issuer": "PPG",
+    "canonical_name": "PPG Industries",
+    "tickers": [
+      "PPG"
+    ],
+    "wikipedia_titles": [
+      "PPG Industries"
+    ]
+  },
+  {
+    "cik": "0000080424",
+    "issuer": "PG",
+    "canonical_name": "Procter & Gamble",
+    "tickers": [
+      "PG"
+    ],
+    "wikipedia_titles": [
+      "Procter & Gamble"
+    ]
+  },
+  {
+    "cik": "0000080661",
+    "issuer": "PGR",
+    "canonical_name": "Progressive Corporation",
+    "tickers": [
+      "PGR"
+    ],
+    "wikipedia_titles": [
+      "Progressive Corporation"
+    ]
+  },
+  {
+    "cik": "0000084839",
+    "issuer": "ROL",
+    "canonical_name": "Rollins, Inc.",
+    "tickers": [
+      "ROL"
+    ],
+    "wikipedia_titles": [
+      "Rollins, Inc."
+    ]
+  },
+  {
+    "cik": "0000086312",
+    "issuer": "TRV",
+    "canonical_name": "Travelers Companies (The)",
+    "tickers": [
+      "TRV"
+    ],
+    "wikipedia_titles": [
+      "The Travelers Companies"
+    ]
+  },
+  {
+    "cik": "0000087347",
+    "issuer": "SLB",
+    "canonical_name": "Schlumberger",
+    "tickers": [
+      "SLB"
+    ],
+    "wikipedia_titles": [
+      "SLB"
+    ]
+  },
+  {
+    "cik": "0000089800",
+    "issuer": "SHW",
+    "canonical_name": "Sherwin-Williams",
+    "tickers": [
+      "SHW"
+    ],
+    "wikipedia_titles": [
+      "Sherwin-Williams"
+    ]
+  },
+  {
+    "cik": "0000091142",
+    "issuer": "AOS",
+    "canonical_name": "A. O. Smith",
+    "tickers": [
+      "AOS"
+    ],
+    "wikipedia_titles": [
+      "A. O. Smith"
+    ]
+  },
+  {
+    "cik": "0000091419",
+    "issuer": "SJM",
+    "canonical_name": "J.M. Smucker Company (The)",
+    "tickers": [
+      "SJM"
+    ],
+    "wikipedia_titles": [
+      "The J.M. Smucker Company"
+    ]
+  },
+  {
+    "cik": "0000091440",
+    "issuer": "SNA",
+    "canonical_name": "Snap-on",
+    "tickers": [
+      "SNA"
+    ],
+    "wikipedia_titles": [
+      "Snap-on"
+    ]
+  },
+  {
+    "cik": "0000091576",
+    "issuer": "KEY",
+    "canonical_name": "KeyCorp",
+    "tickers": [
+      "KEY"
+    ],
+    "wikipedia_titles": [
+      "KeyBank"
+    ]
+  },
+  {
+    "cik": "0000092122",
+    "issuer": "SO",
+    "canonical_name": "Southern Company",
+    "tickers": [
+      "SO"
+    ],
+    "wikipedia_titles": [
+      "Southern Company"
+    ]
+  },
+  {
+    "cik": "0000092230",
+    "issuer": "TFC",
+    "canonical_name": "Truist Financial",
+    "tickers": [
+      "TFC"
+    ],
+    "wikipedia_titles": [
+      "Truist"
+    ]
+  },
+  {
+    "cik": "0000092380",
+    "issuer": "LUV",
+    "canonical_name": "Southwest Airlines",
+    "tickers": [
+      "LUV"
+    ],
+    "wikipedia_titles": [
+      "Southwest Airlines"
+    ]
+  },
+  {
+    "cik": "0000093410",
+    "issuer": "CVX",
+    "canonical_name": "Chevron Corporation",
+    "tickers": [
+      "CVX"
+    ],
+    "wikipedia_titles": [
+      "Chevron Corporation"
+    ]
+  },
+  {
+    "cik": "0000093556",
+    "issuer": "SWK",
+    "canonical_name": "Stanley Black & Decker",
+    "tickers": [
+      "SWK"
+    ],
+    "wikipedia_titles": [
+      "Stanley Black & Decker"
+    ]
+  },
+  {
+    "cik": "0000093751",
+    "issuer": "STT",
+    "canonical_name": "State Street Corporation",
+    "tickers": [
+      "STT"
+    ],
+    "wikipedia_titles": [
+      "State Street Corporation"
+    ]
+  },
+  {
+    "cik": "0000096021",
+    "issuer": "SYY",
+    "canonical_name": "Sysco",
+    "tickers": [
+      "SYY"
+    ],
+    "wikipedia_titles": [
+      "Sysco"
+    ]
+  },
+  {
+    "cik": "0000097210",
+    "issuer": "TER",
+    "canonical_name": "Teradyne",
+    "tickers": [
+      "TER"
+    ],
+    "wikipedia_titles": [
+      "Teradyne"
+    ]
+  },
+  {
+    "cik": "0000097476",
+    "issuer": "TXN",
+    "canonical_name": "Texas Instruments",
+    "tickers": [
+      "TXN"
+    ],
+    "wikipedia_titles": [
+      "Texas Instruments"
+    ]
+  },
+  {
+    "cik": "0000097745",
+    "issuer": "TMO",
+    "canonical_name": "Thermo Fisher Scientific",
+    "tickers": [
+      "TMO"
+    ],
+    "wikipedia_titles": [
+      "Thermo Fisher Scientific"
+    ]
+  },
+  {
+    "cik": "0000100493",
+    "issuer": "TSN",
+    "canonical_name": "Tyson Foods",
+    "tickers": [
+      "TSN"
+    ],
+    "wikipedia_titles": [
+      "Tyson Foods"
+    ]
+  },
+  {
+    "cik": "0000100517",
+    "issuer": "UAL",
+    "canonical_name": "United Airlines Holdings",
+    "tickers": [
+      "UAL"
+    ],
+    "wikipedia_titles": [
+      "United Airlines"
+    ]
+  },
+  {
+    "cik": "0000100885",
+    "issuer": "UNP",
+    "canonical_name": "Union Pacific Corporation",
+    "tickers": [
+      "UNP"
+    ],
+    "wikipedia_titles": [
+      "Union Pacific Corporation"
+    ]
+  },
+  {
+    "cik": "0000101829",
+    "issuer": "RTX",
+    "canonical_name": "RTX Corporation",
+    "tickers": [
+      "RTX"
+    ],
+    "wikipedia_titles": [
+      "RTX Corporation"
+    ]
+  },
+  {
+    "cik": "0000104169",
+    "issuer": "WMT",
+    "canonical_name": "Walmart",
+    "tickers": [
+      "WMT"
+    ],
+    "wikipedia_titles": [
+      "Walmart"
+    ]
+  },
+  {
+    "cik": "0000105634",
+    "issuer": "EME",
+    "canonical_name": "Emcor",
+    "tickers": [
+      "EME"
+    ],
+    "wikipedia_titles": [
+      "Emcor"
+    ]
+  },
+  {
+    "cik": "0000105770",
+    "issuer": "WST",
+    "canonical_name": "West Pharmaceutical Services",
+    "tickers": [
+      "WST"
+    ],
+    "wikipedia_titles": [
+      "West Pharmaceutical Services"
+    ]
+  },
+  {
+    "cik": "0000106040",
+    "issuer": "WDC",
+    "canonical_name": "Western Digital",
+    "tickers": [
+      "WDC"
+    ],
+    "wikipedia_titles": [
+      "Western Digital"
+    ]
+  },
+  {
+    "cik": "0000106535",
+    "issuer": "WY",
+    "canonical_name": "Weyerhaeuser",
+    "tickers": [
+      "WY"
+    ],
+    "wikipedia_titles": [
+      "Weyerhaeuser"
+    ]
+  },
+  {
+    "cik": "0000107263",
+    "issuer": "WMB",
+    "canonical_name": "Williams Companies",
+    "tickers": [
+      "WMB"
+    ],
+    "wikipedia_titles": [
+      "Williams Companies"
+    ]
+  },
+  {
+    "cik": "0000109198",
+    "issuer": "TJX",
+    "canonical_name": "TJX Companies",
+    "tickers": [
+      "TJX"
+    ],
+    "wikipedia_titles": [
+      "TJX"
+    ]
+  },
+  {
+    "cik": "0000200406",
+    "issuer": "JNJ",
+    "canonical_name": "Johnson & Johnson",
+    "tickers": [
+      "JNJ"
+    ],
+    "wikipedia_titles": [
+      "Johnson & Johnson"
+    ]
+  },
+  {
+    "cik": "0000202058",
+    "issuer": "LHX",
+    "canonical_name": "L3Harris",
+    "tickers": [
+      "LHX"
+    ],
+    "wikipedia_titles": [
+      "L3Harris"
+    ]
+  },
+  {
+    "cik": "0000217346",
+    "issuer": "TXT",
+    "canonical_name": "Textron",
+    "tickers": [
+      "TXT"
+    ],
+    "wikipedia_titles": [
+      "Textron"
+    ]
+  },
+  {
+    "cik": "0000277135",
+    "issuer": "GWW",
+    "canonical_name": "W. W. Grainger",
+    "tickers": [
+      "GWW"
+    ],
+    "wikipedia_titles": [
+      "W. W. Grainger"
+    ]
+  },
+  {
+    "cik": "0000277948",
+    "issuer": "CSX",
+    "canonical_name": "CSX Corporation",
+    "tickers": [
+      "CSX"
+    ],
+    "wikipedia_titles": [
+      "CSX Corporation"
+    ]
+  },
+  {
+    "cik": "0000310158",
+    "issuer": "MRK",
+    "canonical_name": "Merck & Co.",
+    "tickers": [
+      "MRK"
+    ],
+    "wikipedia_titles": [
+      "Merck & Co."
+    ]
+  },
+  {
+    "cik": "0000310764",
+    "issuer": "SYK",
+    "canonical_name": "Stryker Corporation",
+    "tickers": [
+      "SYK"
+    ],
+    "wikipedia_titles": [
+      "Stryker Corporation"
+    ]
+  },
+  {
+    "cik": "0000313616",
+    "issuer": "DHR",
+    "canonical_name": "Danaher Corporation",
+    "tickers": [
+      "DHR"
+    ],
+    "wikipedia_titles": [
+      "Danaher Corporation"
+    ]
+  },
+  {
+    "cik": "0000313927",
+    "issuer": "CHD",
+    "canonical_name": "Church & Dwight",
+    "tickers": [
+      "CHD"
+    ],
+    "wikipedia_titles": [
+      "Church & Dwight"
+    ]
+  },
+  {
+    "cik": "0000315189",
+    "issuer": "DE",
+    "canonical_name": "Deere & Company",
+    "tickers": [
+      "DE"
+    ],
+    "wikipedia_titles": [
+      "John Deere"
+    ]
+  },
+  {
+    "cik": "0000315293",
+    "issuer": "AON",
+    "canonical_name": "Aon plc",
+    "tickers": [
+      "AON"
+    ],
+    "wikipedia_titles": [
+      "Aon plc"
+    ]
+  },
+  {
+    "cik": "0000316709",
+    "issuer": "SCHW",
+    "canonical_name": "Charles Schwab Corporation",
+    "tickers": [
+      "SCHW"
+    ],
+    "wikipedia_titles": [
+      "Charles Schwab Corporation"
+    ]
+  },
+  {
+    "cik": "0000318154",
+    "issuer": "AMGN",
+    "canonical_name": "Amgen",
+    "tickers": [
+      "AMGN"
+    ],
+    "wikipedia_titles": [
+      "Amgen"
+    ]
+  },
+  {
+    "cik": "0000319201",
+    "issuer": "KLAC",
+    "canonical_name": "KLA Corporation",
+    "tickers": [
+      "KLAC"
+    ],
+    "wikipedia_titles": [
+      "KLA Corporation"
+    ]
+  },
+  {
+    "cik": "0000320187",
+    "issuer": "NKE",
+    "canonical_name": "Nike, Inc.",
+    "tickers": [
+      "NKE"
+    ],
+    "wikipedia_titles": [
+      "Nike, Inc."
+    ]
+  },
+  {
+    "cik": "0000320193",
+    "issuer": "AAPL",
+    "canonical_name": "Apple Inc.",
+    "tickers": [
+      "AAPL"
+    ],
+    "wikipedia_titles": [
+      "Apple Inc."
+    ]
+  },
+  {
+    "cik": "0000320335",
+    "issuer": "GL",
+    "canonical_name": "Globe Life",
+    "tickers": [
+      "GL"
+    ],
+    "wikipedia_titles": [
+      "Globe Life"
+    ]
+  },
+  {
+    "cik": "0000352541",
+    "issuer": "LNT",
+    "canonical_name": "Alliant Energy",
+    "tickers": [
+      "LNT"
+    ],
+    "wikipedia_titles": [
+      "Alliant Energy"
+    ]
+  },
+  {
+    "cik": "0000352915",
+    "issuer": "UHS",
+    "canonical_name": "Universal Health Services",
+    "tickers": [
+      "UHS"
+    ],
+    "wikipedia_titles": [
+      "Universal Health Services"
+    ]
+  },
+  {
+    "cik": "0000354190",
+    "issuer": "AJG",
+    "canonical_name": "Arthur J. Gallagher & Co.",
+    "tickers": [
+      "AJG"
+    ],
+    "wikipedia_titles": [
+      "Arthur J. Gallagher & Co."
+    ]
+  },
+  {
+    "cik": "0000354950",
+    "issuer": "HD",
+    "canonical_name": "Home Depot (The)",
+    "tickers": [
+      "HD"
+    ],
+    "wikipedia_titles": [
+      "Home Depot"
+    ]
+  },
+  {
+    "cik": "0000702165",
+    "issuer": "NSC",
+    "canonical_name": "Norfolk Southern",
+    "tickers": [
+      "NSC"
+    ],
+    "wikipedia_titles": [
+      "Norfolk Southern Railway"
+    ]
+  },
+  {
+    "cik": "0000707549",
+    "issuer": "LRCX",
+    "canonical_name": "Lam Research",
+    "tickers": [
+      "LRCX"
+    ],
+    "wikipedia_titles": [
+      "Lam Research"
+    ]
+  },
+  {
+    "cik": "0000711404",
+    "issuer": "COO",
+    "canonical_name": "Cooper Companies (The)",
+    "tickers": [
+      "COO"
+    ],
+    "wikipedia_titles": [
+      "The Cooper Companies"
+    ]
+  },
+  {
+    "cik": "0000712515",
+    "issuer": "EA",
+    "canonical_name": "Electronic Arts",
+    "tickers": [
+      "EA"
+    ],
+    "wikipedia_titles": [
+      "Electronic Arts"
+    ]
+  },
+  {
+    "cik": "0000713676",
+    "issuer": "PNC",
+    "canonical_name": "PNC Financial Services",
+    "tickers": [
+      "PNC"
+    ],
+    "wikipedia_titles": [
+      "PNC Financial Services"
+    ]
+  },
+  {
+    "cik": "0000715957",
+    "issuer": "D",
+    "canonical_name": "Dominion Energy",
+    "tickers": [
+      "D"
+    ],
+    "wikipedia_titles": [
+      "Dominion Energy"
+    ]
+  },
+  {
+    "cik": "0000719955",
+    "issuer": "WSM",
+    "canonical_name": "Williams-Sonoma, Inc.",
+    "tickers": [
+      "WSM"
+    ],
+    "wikipedia_titles": [
+      "Williams-Sonoma, Inc."
+    ]
+  },
+  {
+    "cik": "0000720005",
+    "issuer": "RJF",
+    "canonical_name": "Raymond James Financial",
+    "tickers": [
+      "RJF"
+    ],
+    "wikipedia_titles": [
+      "Raymond James Financial"
+    ]
+  },
+  {
+    "cik": "0000721371",
+    "issuer": "CAH",
+    "canonical_name": "Cardinal Health",
+    "tickers": [
+      "CAH"
+    ],
+    "wikipedia_titles": [
+      "Cardinal Health"
+    ]
+  },
+  {
+    "cik": "0000723125",
+    "issuer": "MU",
+    "canonical_name": "Micron Technology",
+    "tickers": [
+      "MU"
+    ],
+    "wikipedia_titles": [
+      "Micron Technology"
+    ]
+  },
+  {
+    "cik": "0000723254",
+    "issuer": "CTAS",
+    "canonical_name": "Cintas",
+    "tickers": [
+      "CTAS"
+    ],
+    "wikipedia_titles": [
+      "Cintas"
+    ]
+  },
+  {
+    "cik": "0000723531",
+    "issuer": "PAYX",
+    "canonical_name": "Paychex",
+    "tickers": [
+      "PAYX"
+    ],
+    "wikipedia_titles": [
+      "Paychex"
+    ]
+  },
+  {
+    "cik": "0000726728",
+    "issuer": "O",
+    "canonical_name": "Realty Income",
+    "tickers": [
+      "O"
+    ],
+    "wikipedia_titles": [
+      "Realty Income"
+    ]
+  },
+  {
+    "cik": "0000726958",
+    "issuer": "CASY",
+    "canonical_name": "Casey's",
+    "tickers": [
+      "CASY"
+    ],
+    "wikipedia_titles": [
+      "Casey's"
+    ]
+  },
+  {
+    "cik": "0000728535",
+    "issuer": "JBHT",
+    "canonical_name": "J.B. Hunt",
+    "tickers": [
+      "JBHT"
+    ],
+    "wikipedia_titles": [
+      "J. B. Hunt"
+    ]
+  },
+  {
+    "cik": "0000731766",
+    "issuer": "UNH",
+    "canonical_name": "UnitedHealth Group",
+    "tickers": [
+      "UNH"
+    ],
+    "wikipedia_titles": [
+      "UnitedHealth Group"
+    ]
+  },
+  {
+    "cik": "0000731802",
+    "issuer": "ATO",
+    "canonical_name": "Atmos Energy",
+    "tickers": [
+      "ATO"
+    ],
+    "wikipedia_titles": [
+      "Atmos Energy"
+    ]
+  },
+  {
+    "cik": "0000732712",
+    "issuer": "VZ",
+    "canonical_name": "Verizon",
+    "tickers": [
+      "VZ"
+    ],
+    "wikipedia_titles": [
+      "Verizon"
+    ]
+  },
+  {
+    "cik": "0000732717",
+    "issuer": "T",
+    "canonical_name": "AT&T",
+    "tickers": [
+      "T"
+    ],
+    "wikipedia_titles": [
+      "AT&T"
+    ]
+  },
+  {
+    "cik": "0000740260",
+    "issuer": "VTR",
+    "canonical_name": "Ventas",
+    "tickers": [
+      "VTR"
+    ],
+    "wikipedia_titles": [
+      "Ventas (company)"
+    ]
+  },
+  {
+    "cik": "0000745732",
+    "issuer": "ROST",
+    "canonical_name": "Ross Stores",
+    "tickers": [
+      "ROST"
+    ],
+    "wikipedia_titles": [
+      "Ross Stores"
+    ]
+  },
+  {
+    "cik": "0000746515",
+    "issuer": "EXPD",
+    "canonical_name": "Expeditors International",
+    "tickers": [
+      "EXPD"
+    ],
+    "wikipedia_titles": [
+      "Expeditors International"
+    ]
+  },
+  {
+    "cik": "0000749251",
+    "issuer": "IT",
+    "canonical_name": "Gartner",
+    "tickers": [
+      "IT"
+    ],
+    "wikipedia_titles": [
+      "Gartner"
+    ]
+  },
+  {
+    "cik": "0000753308",
+    "issuer": "NEE",
+    "canonical_name": "NextEra Energy",
+    "tickers": [
+      "NEE"
+    ],
+    "wikipedia_titles": [
+      "NextEra Energy"
+    ]
+  },
+  {
+    "cik": "0000759944",
+    "issuer": "CFG",
+    "canonical_name": "Citizens Financial Group",
+    "tickers": [
+      "CFG"
+    ],
+    "wikipedia_titles": [
+      "Citizens Financial Group"
+    ]
+  },
+  {
+    "cik": "0000764180",
+    "issuer": "MO",
+    "canonical_name": "Altria",
+    "tickers": [
+      "MO"
+    ],
+    "wikipedia_titles": [
+      "Altria"
+    ]
+  },
+  {
+    "cik": "0000764478",
+    "issuer": "BBY",
+    "canonical_name": "Best Buy",
+    "tickers": [
+      "BBY"
+    ],
+    "wikipedia_titles": [
+      "Best Buy"
+    ]
+  },
+  {
+    "cik": "0000764622",
+    "issuer": "PNW",
+    "canonical_name": "Pinnacle West Capital",
+    "tickers": [
+      "PNW"
+    ],
+    "wikipedia_titles": [
+      "Pinnacle West Capital"
+    ]
+  },
+  {
+    "cik": "0000765880",
+    "issuer": "DOC",
+    "canonical_name": "Healthpeak Properties",
+    "tickers": [
+      "DOC"
+    ],
+    "wikipedia_titles": [
+      "Healthpeak Properties"
+    ]
+  },
+  {
+    "cik": "0000766704",
+    "issuer": "WELL",
+    "canonical_name": "Welltower",
+    "tickers": [
+      "WELL"
+    ],
+    "wikipedia_titles": [
+      "Welltower"
+    ]
+  },
+  {
+    "cik": "0000769397",
+    "issuer": "ADSK",
+    "canonical_name": "Autodesk",
+    "tickers": [
+      "ADSK"
+    ],
+    "wikipedia_titles": [
+      "Autodesk"
+    ]
+  },
+  {
+    "cik": "0000773840",
+    "issuer": "HON",
+    "canonical_name": "Honeywell",
+    "tickers": [
+      "HON"
+    ],
+    "wikipedia_titles": [
+      "Honeywell"
+    ]
+  },
+  {
+    "cik": "0000779152",
+    "issuer": "JKHY",
+    "canonical_name": "Jack Henry & Associates",
+    "tickers": [
+      "JKHY"
+    ],
+    "wikipedia_titles": [
+      "Jack Henry & Associates"
+    ]
+  },
+  {
+    "cik": "0000783325",
+    "issuer": "WEC",
+    "canonical_name": "WEC Energy Group",
+    "tickers": [
+      "WEC"
+    ],
+    "wikipedia_titles": [
+      "WEC Energy Group"
+    ]
+  },
+  {
+    "cik": "0000788784",
+    "issuer": "PEG",
+    "canonical_name": "Public Service Enterprise Group",
+    "tickers": [
+      "PEG"
+    ],
+    "wikipedia_titles": [
+      "Public Service Enterprise Group"
+    ]
+  },
+  {
+    "cik": "0000789019",
+    "issuer": "MSFT",
+    "canonical_name": "Microsoft",
+    "tickers": [
+      "MSFT"
+    ],
+    "wikipedia_titles": [
+      "Microsoft"
+    ]
+  },
+  {
+    "cik": "0000789570",
+    "issuer": "MGM",
+    "canonical_name": "MGM Resorts",
+    "tickers": [
+      "MGM"
+    ],
+    "wikipedia_titles": [
+      "MGM Resorts International"
+    ]
+  },
+  {
+    "cik": "0000796343",
+    "issuer": "ADBE",
+    "canonical_name": "Adobe Inc.",
+    "tickers": [
+      "ADBE"
+    ],
+    "wikipedia_titles": [
+      "Adobe Inc."
+    ]
+  },
+  {
+    "cik": "0000797468",
+    "issuer": "OXY",
+    "canonical_name": "Occidental Petroleum",
+    "tickers": [
+      "OXY"
+    ],
+    "wikipedia_titles": [
+      "Occidental Petroleum"
+    ]
+  },
+  {
+    "cik": "0000798354",
+    "issuer": "FISV",
+    "canonical_name": "Fiserv",
+    "tickers": [
+      "FISV"
+    ],
+    "wikipedia_titles": [
+      "Fiserv"
+    ]
+  },
+  {
+    "cik": "0000804328",
+    "issuer": "QCOM",
+    "canonical_name": "Qualcomm",
+    "tickers": [
+      "QCOM"
+    ],
+    "wikipedia_titles": [
+      "Qualcomm"
+    ]
+  },
+  {
+    "cik": "0000811156",
+    "issuer": "CMS",
+    "canonical_name": "CMS Energy",
+    "tickers": [
+      "CMS"
+    ],
+    "wikipedia_titles": [
+      "CMS Energy"
+    ]
+  },
+  {
+    "cik": "0000813672",
+    "issuer": "CDNS",
+    "canonical_name": "Cadence Design Systems",
+    "tickers": [
+      "CDNS"
+    ],
+    "wikipedia_titles": [
+      "Cadence Design Systems"
+    ]
+  },
+  {
+    "cik": "0000814547",
+    "issuer": "FICO",
+    "canonical_name": "Fair Isaac",
+    "tickers": [
+      "FICO"
+    ],
+    "wikipedia_titles": [
+      "Fair Isaac"
+    ]
+  },
+  {
+    "cik": "0000815097",
+    "issuer": "CCL",
+    "canonical_name": "Carnival Corporation",
+    "tickers": [
+      "CCL"
+    ],
+    "wikipedia_titles": [
+      "Carnival Corporation"
+    ]
+  },
+  {
+    "cik": "0000815556",
+    "issuer": "FAST",
+    "canonical_name": "Fastenal",
+    "tickers": [
+      "FAST"
+    ],
+    "wikipedia_titles": [
+      "Fastenal"
+    ]
+  },
+  {
+    "cik": "0000820027",
+    "issuer": "AMP",
+    "canonical_name": "Ameriprise Financial",
+    "tickers": [
+      "AMP"
+    ],
+    "wikipedia_titles": [
+      "Ameriprise Financial"
+    ]
+  },
+  {
+    "cik": "0000820313",
+    "issuer": "APH",
+    "canonical_name": "Amphenol",
+    "tickers": [
+      "APH"
+    ],
+    "wikipedia_titles": [
+      "Amphenol"
+    ]
+  },
+  {
+    "cik": "0000820318",
+    "issuer": "COHR",
+    "canonical_name": "Coherent Corp.",
+    "tickers": [
+      "COHR"
+    ],
+    "wikipedia_titles": [
+      "Coherent Corp."
+    ]
+  },
+  {
+    "cik": "0000821189",
+    "issuer": "EOG",
+    "canonical_name": "EOG Resources",
+    "tickers": [
+      "EOG"
+    ],
+    "wikipedia_titles": [
+      "EOG Resources"
+    ]
+  },
+  {
+    "cik": "0000822416",
+    "issuer": "PHM",
+    "canonical_name": "PulteGroup",
+    "tickers": [
+      "PHM"
+    ],
+    "wikipedia_titles": [
+      "PulteGroup"
+    ]
+  },
+  {
+    "cik": "0000823768",
+    "issuer": "WM",
+    "canonical_name": "Waste Management",
+    "tickers": [
+      "WM"
+    ],
+    "wikipedia_titles": [
+      "Waste Management, Inc."
+    ]
+  },
+  {
+    "cik": "0000827052",
+    "issuer": "EIX",
+    "canonical_name": "Edison International",
+    "tickers": [
+      "EIX"
+    ],
+    "wikipedia_titles": [
+      "Edison International"
+    ]
+  },
+  {
+    "cik": "0000827054",
+    "issuer": "MCHP",
+    "canonical_name": "Microchip Technology",
+    "tickers": [
+      "MCHP"
+    ],
+    "wikipedia_titles": [
+      "Microchip Technology"
+    ]
+  },
+  {
+    "cik": "0000829224",
+    "issuer": "SBUX",
+    "canonical_name": "Starbucks",
+    "tickers": [
+      "SBUX"
+    ],
+    "wikipedia_titles": [
+      "Starbucks"
+    ]
+  },
+  {
+    "cik": "0000831001",
+    "issuer": "C",
+    "canonical_name": "Citigroup",
+    "tickers": [
+      "C"
+    ],
+    "wikipedia_titles": [
+      "Citigroup"
+    ]
+  },
+  {
+    "cik": "0000831259",
+    "issuer": "FCX",
+    "canonical_name": "Freeport-McMoRan",
+    "tickers": [
+      "FCX"
+    ],
+    "wikipedia_titles": [
+      "Freeport-McMoRan"
+    ]
+  },
+  {
+    "cik": "0000832101",
+    "issuer": "IEX",
+    "canonical_name": "IDEX Corporation",
+    "tickers": [
+      "IEX"
+    ],
+    "wikipedia_titles": [
+      "IDEX Corporation"
+    ]
+  },
+  {
+    "cik": "0000833444",
+    "issuer": "JCI",
+    "canonical_name": "Johnson Controls",
+    "tickers": [
+      "JCI"
+    ],
+    "wikipedia_titles": [
+      "Johnson Controls"
+    ]
+  },
+  {
+    "cik": "0000842023",
+    "issuer": "TECH",
+    "canonical_name": "Bio-Techne",
+    "tickers": [
+      "TECH"
+    ],
+    "wikipedia_titles": [
+      "Bio-Techne"
+    ]
+  },
+  {
+    "cik": "0000849395",
+    "issuer": "CRH",
+    "canonical_name": "CRH plc",
+    "tickers": [
+      "CRH"
+    ],
+    "wikipedia_titles": [
+      "CRH plc"
+    ]
+  },
+  {
+    "cik": "0000849399",
+    "issuer": "GEN",
+    "canonical_name": "Gen Digital",
+    "tickers": [
+      "GEN"
+    ],
+    "wikipedia_titles": [
+      "Gen Digital"
+    ]
+  },
+  {
+    "cik": "0000857005",
+    "issuer": "PTC",
+    "canonical_name": "PTC Inc.",
+    "tickers": [
+      "PTC"
+    ],
+    "wikipedia_titles": [
+      "PTC Inc."
+    ]
+  },
+  {
+    "cik": "0000858877",
+    "issuer": "CSCO",
+    "canonical_name": "Cisco",
+    "tickers": [
+      "CSCO"
+    ],
+    "wikipedia_titles": [
+      "Cisco"
+    ]
+  },
+  {
+    "cik": "0000860730",
+    "issuer": "HCA",
+    "canonical_name": "HCA Healthcare",
+    "tickers": [
+      "HCA"
+    ],
+    "wikipedia_titles": [
+      "HCA Healthcare"
+    ]
+  },
+  {
+    "cik": "0000860731",
+    "issuer": "TYL",
+    "canonical_name": "Tyler Technologies",
+    "tickers": [
+      "TYL"
+    ],
+    "wikipedia_titles": [
+      "Tyler Technologies"
+    ]
+  },
+  {
+    "cik": "0000864749",
+    "issuer": "TRMB",
+    "canonical_name": "Trimble Inc.",
+    "tickers": [
+      "TRMB"
+    ],
+    "wikipedia_titles": [
+      "Trimble Inc."
+    ]
+  },
+  {
+    "cik": "0000865752",
+    "issuer": "MNST",
+    "canonical_name": "Monster Beverage",
+    "tickers": [
+      "MNST"
+    ],
+    "wikipedia_titles": [
+      "Monster Beverage"
+    ]
+  },
+  {
+    "cik": "0000866787",
+    "issuer": "AZO",
+    "canonical_name": "AutoZone",
+    "tickers": [
+      "AZO"
+    ],
+    "wikipedia_titles": [
+      "AutoZone"
+    ]
+  },
+  {
+    "cik": "0000872589",
+    "issuer": "REGN",
+    "canonical_name": "Regeneron Pharmaceuticals",
+    "tickers": [
+      "REGN"
+    ],
+    "wikipedia_titles": [
+      "Regeneron Pharmaceuticals"
+    ]
+  },
+  {
+    "cik": "0000874716",
+    "issuer": "IDXX",
+    "canonical_name": "Idexx Laboratories",
+    "tickers": [
+      "IDXX"
+    ],
+    "wikipedia_titles": [
+      "Idexx Laboratories"
+    ]
+  },
+  {
+    "cik": "0000874761",
+    "issuer": "AES",
+    "canonical_name": "AES Corporation",
+    "tickers": [
+      "AES"
+    ],
+    "wikipedia_titles": [
+      "AES Corporation"
+    ]
+  },
+  {
+    "cik": "0000874766",
+    "issuer": "HIG",
+    "canonical_name": "Hartford (The)",
+    "tickers": [
+      "HIG"
+    ],
+    "wikipedia_titles": [
+      "The Hartford"
+    ]
+  },
+  {
+    "cik": "0000875045",
+    "issuer": "BIIB",
+    "canonical_name": "Biogen",
+    "tickers": [
+      "BIIB"
+    ],
+    "wikipedia_titles": [
+      "Biogen"
+    ]
+  },
+  {
+    "cik": "0000875320",
+    "issuer": "VRTX",
+    "canonical_name": "Vertex Pharmaceuticals",
+    "tickers": [
+      "VRTX"
+    ],
+    "wikipedia_titles": [
+      "Vertex Pharmaceuticals"
+    ]
+  },
+  {
+    "cik": "0000877212",
+    "issuer": "ZBRA",
+    "canonical_name": "Zebra Technologies",
+    "tickers": [
+      "ZBRA"
+    ],
+    "wikipedia_titles": [
+      "Zebra Technologies"
+    ]
+  },
+  {
+    "cik": "0000878927",
+    "issuer": "ODFL",
+    "canonical_name": "Old Dominion",
+    "tickers": [
+      "ODFL"
+    ],
+    "wikipedia_titles": [
+      "Old Dominion Freight Line"
+    ]
+  },
+  {
+    "cik": "0000879101",
+    "issuer": "KIM",
+    "canonical_name": "Kimco Realty",
+    "tickers": [
+      "KIM"
+    ],
+    "wikipedia_titles": [
+      "Kimco Realty"
+    ]
+  },
+  {
+    "cik": "0000879169",
+    "issuer": "INCY",
+    "canonical_name": "Incyte",
+    "tickers": [
+      "INCY"
+    ],
+    "wikipedia_titles": [
+      "Incyte"
+    ]
+  },
+  {
+    "cik": "0000882095",
+    "issuer": "GILD",
+    "canonical_name": "Gilead Sciences",
+    "tickers": [
+      "GILD"
+    ],
+    "wikipedia_titles": [
+      "Gilead Sciences"
+    ]
+  },
+  {
+    "cik": "0000882184",
+    "issuer": "DHI",
+    "canonical_name": "D. R. Horton",
+    "tickers": [
+      "DHI"
+    ],
+    "wikipedia_titles": [
+      "D. R. Horton"
+    ]
+  },
+  {
+    "cik": "0000882835",
+    "issuer": "ROP",
+    "canonical_name": "Roper Technologies",
+    "tickers": [
+      "ROP"
+    ],
+    "wikipedia_titles": [
+      "Roper Technologies"
+    ]
+  },
+  {
+    "cik": "0000883241",
+    "issuer": "SNPS",
+    "canonical_name": "Synopsys",
+    "tickers": [
+      "SNPS"
+    ],
+    "wikipedia_titles": [
+      "Synopsys"
+    ]
+  },
+  {
+    "cik": "0000884887",
+    "issuer": "RCL",
+    "canonical_name": "Royal Caribbean Group",
+    "tickers": [
+      "RCL"
+    ],
+    "wikipedia_titles": [
+      "Royal Caribbean Group"
+    ]
+  },
+  {
+    "cik": "0000885725",
+    "issuer": "BSX",
+    "canonical_name": "Boston Scientific",
+    "tickers": [
+      "BSX"
+    ],
+    "wikipedia_titles": [
+      "Boston Scientific"
+    ]
+  },
+  {
+    "cik": "0000886982",
+    "issuer": "GS",
+    "canonical_name": "Goldman Sachs",
+    "tickers": [
+      "GS"
+    ],
+    "wikipedia_titles": [
+      "Goldman Sachs"
+    ]
+  },
+  {
+    "cik": "0000895126",
+    "issuer": "EXE",
+    "canonical_name": "Expand Energy",
+    "tickers": [
+      "EXE"
+    ],
+    "wikipedia_titles": [
+      "Expand Energy"
+    ]
+  },
+  {
+    "cik": "0000895421",
+    "issuer": "MS",
+    "canonical_name": "Morgan Stanley",
+    "tickers": [
+      "MS"
+    ],
+    "wikipedia_titles": [
+      "Morgan Stanley"
+    ]
+  },
+  {
+    "cik": "0000896159",
+    "issuer": "CB",
+    "canonical_name": "Chubb Limited",
+    "tickers": [
+      "CB"
+    ],
+    "wikipedia_titles": [
+      "Chubb Limited"
+    ]
+  },
+  {
+    "cik": "0000896878",
+    "issuer": "INTU",
+    "canonical_name": "Intuit",
+    "tickers": [
+      "INTU"
+    ],
+    "wikipedia_titles": [
+      "Intuit"
+    ]
+  },
+  {
+    "cik": "0000898173",
+    "issuer": "ORLY",
+    "canonical_name": "O’Reilly Automotive",
+    "tickers": [
+      "ORLY"
+    ],
+    "wikipedia_titles": [
+      "O'Reilly Auto Parts"
+    ]
+  },
+  {
+    "cik": "0000898293",
+    "issuer": "JBL",
+    "canonical_name": "Jabil",
+    "tickers": [
+      "JBL"
+    ],
+    "wikipedia_titles": [
+      "Jabil"
+    ]
+  },
+  {
+    "cik": "0000899051",
+    "issuer": "ALL",
+    "canonical_name": "Allstate",
+    "tickers": [
+      "ALL"
+    ],
+    "wikipedia_titles": [
+      "Allstate"
+    ]
+  },
+  {
+    "cik": "0000900075",
+    "issuer": "CPRT",
+    "canonical_name": "Copart",
+    "tickers": [
+      "CPRT"
+    ],
+    "wikipedia_titles": [
+      "Copart"
+    ]
+  },
+  {
+    "cik": "0000906107",
+    "issuer": "EQR",
+    "canonical_name": "Equity Residential",
+    "tickers": [
+      "EQR"
+    ],
+    "wikipedia_titles": [
+      "Vivmark Residential"
+    ]
+  },
+  {
+    "cik": "0000906163",
+    "issuer": "NVR",
+    "canonical_name": "NVR, Inc.",
+    "tickers": [
+      "NVR"
+    ],
+    "wikipedia_titles": [
+      "NVR, Inc."
+    ]
+  },
+  {
+    "cik": "0000906345",
+    "issuer": "CPT",
+    "canonical_name": "Camden Property Trust",
+    "tickers": [
+      "CPT"
+    ],
+    "wikipedia_titles": [
+      "Camden Property Trust"
+    ]
+  },
+  {
+    "cik": "0000909832",
+    "issuer": "COST",
+    "canonical_name": "Costco",
+    "tickers": [
+      "COST"
+    ],
+    "wikipedia_titles": [
+      "Costco"
+    ]
+  },
+  {
+    "cik": "0000910521",
+    "issuer": "DECK",
+    "canonical_name": "Deckers Brands",
+    "tickers": [
+      "DECK"
+    ],
+    "wikipedia_titles": [
+      "Deckers Brands"
+    ]
+  },
+  {
+    "cik": "0000910606",
+    "issuer": "REG",
+    "canonical_name": "Regency Centers",
+    "tickers": [
+      "REG"
+    ],
+    "wikipedia_titles": [
+      "Regency Centers"
+    ]
+  },
+  {
+    "cik": "0000912595",
+    "issuer": "MAA",
+    "canonical_name": "Mid-America Apartment Communities",
+    "tickers": [
+      "MAA"
+    ],
+    "wikipedia_titles": [
+      "Mid-America Apartment Communities"
+    ]
+  },
+  {
+    "cik": "0000914208",
+    "issuer": "IVZ",
+    "canonical_name": "Invesco",
+    "tickers": [
+      "IVZ"
+    ],
+    "wikipedia_titles": [
+      "Invesco"
+    ]
+  },
+  {
+    "cik": "0000915912",
+    "issuer": "AVB",
+    "canonical_name": "AvalonBay Communities",
+    "tickers": [
+      "AVB"
+    ],
+    "wikipedia_titles": [
+      "AvalonBay Communities"
+    ]
+  },
+  {
+    "cik": "0000915913",
+    "issuer": "ALB",
+    "canonical_name": "Albemarle Corporation",
+    "tickers": [
+      "ALB"
+    ],
+    "wikipedia_titles": [
+      "Albemarle Corporation"
+    ]
+  },
+  {
+    "cik": "0000916076",
+    "issuer": "MLM",
+    "canonical_name": "Martin Marietta Materials",
+    "tickers": [
+      "MLM"
+    ],
+    "wikipedia_titles": [
+      "Martin Marietta Materials"
+    ]
+  },
+  {
+    "cik": "0000916365",
+    "issuer": "TSCO",
+    "canonical_name": "Tractor Supply",
+    "tickers": [
+      "TSCO"
+    ],
+    "wikipedia_titles": [
+      "Tractor Supply Company"
+    ]
+  },
+  {
+    "cik": "0000920148",
+    "issuer": "LH",
+    "canonical_name": "Labcorp",
+    "tickers": [
+      "LH"
+    ],
+    "wikipedia_titles": [
+      "Labcorp"
+    ]
+  },
+  {
+    "cik": "0000920522",
+    "issuer": "ESS",
+    "canonical_name": "Essex Property Trust",
+    "tickers": [
+      "ESS"
+    ],
+    "wikipedia_titles": [
+      "Essex Property Trust"
+    ]
+  },
+  {
+    "cik": "0000920760",
+    "issuer": "LEN",
+    "canonical_name": "Lennar",
+    "tickers": [
+      "LEN"
+    ],
+    "wikipedia_titles": [
+      "Lennar"
+    ]
+  },
+  {
+    "cik": "0000922224",
+    "issuer": "PPL",
+    "canonical_name": "PPL Corporation",
+    "tickers": [
+      "PPL"
+    ],
+    "wikipedia_titles": [
+      "PPL Corporation"
+    ]
+  },
+  {
+    "cik": "0000922621",
+    "issuer": "ERIE",
+    "canonical_name": "Erie Indemnity",
+    "tickers": [
+      "ERIE"
+    ],
+    "wikipedia_titles": [
+      "Erie Indemnity"
+    ]
+  },
+  {
+    "cik": "0000927066",
+    "issuer": "DVA",
+    "canonical_name": "DaVita",
+    "tickers": [
+      "DVA"
+    ],
+    "wikipedia_titles": [
+      "DaVita"
+    ]
+  },
+  {
+    "cik": "0000927628",
+    "issuer": "COF",
+    "canonical_name": "Capital One",
+    "tickers": [
+      "COF"
+    ],
+    "wikipedia_titles": [
+      "Capital One"
+    ]
+  },
+  {
+    "cik": "0000927653",
+    "issuer": "MCK",
+    "canonical_name": "McKesson Corporation",
+    "tickers": [
+      "MCK"
+    ],
+    "wikipedia_titles": [
+      "McKesson"
+    ]
+  },
+  {
+    "cik": "0000935703",
+    "issuer": "DLTR",
+    "canonical_name": "Dollar Tree",
+    "tickers": [
+      "DLTR"
+    ],
+    "wikipedia_titles": [
+      "Dollar Tree"
+    ]
+  },
+  {
+    "cik": "0000936340",
+    "issuer": "DTE",
+    "canonical_name": "DTE Energy",
+    "tickers": [
+      "DTE"
+    ],
+    "wikipedia_titles": [
+      "DTE Energy"
+    ]
+  },
+  {
+    "cik": "0000936395",
+    "issuer": "CIEN",
+    "canonical_name": "Ciena",
+    "tickers": [
+      "CIEN"
+    ],
+    "wikipedia_titles": [
+      "Ciena"
+    ]
+  },
+  {
+    "cik": "0000936468",
+    "issuer": "LMT",
+    "canonical_name": "Lockheed Martin",
+    "tickers": [
+      "LMT"
+    ],
+    "wikipedia_titles": [
+      "Lockheed Martin"
+    ]
+  },
+  {
+    "cik": "0000940944",
+    "issuer": "DRI",
+    "canonical_name": "Darden Restaurants",
+    "tickers": [
+      "DRI"
+    ],
+    "wikipedia_titles": [
+      "Darden Restaurants"
+    ]
+  },
+  {
+    "cik": "0000943452",
+    "issuer": "WAB",
+    "canonical_name": "Wabtec",
+    "tickers": [
+      "WAB"
+    ],
+    "wikipedia_titles": [
+      "Wabtec"
+    ]
+  },
+  {
+    "cik": "0000943819",
+    "issuer": "RMD",
+    "canonical_name": "ResMed",
+    "tickers": [
+      "RMD"
+    ],
+    "wikipedia_titles": [
+      "ResMed"
+    ]
+  },
+  {
+    "cik": "0000945841",
+    "issuer": "POOL",
+    "canonical_name": "Pool Corporation",
+    "tickers": [
+      "POOL"
+    ],
+    "wikipedia_titles": [
+      "Pool Corporation"
+    ]
+  },
+  {
+    "cik": "0000946581",
+    "issuer": "TTWO",
+    "canonical_name": "Take-Two Interactive",
+    "tickers": [
+      "TTWO"
+    ],
+    "wikipedia_titles": [
+      "Take-Two Interactive"
+    ]
+  },
+  {
+    "cik": "0000947484",
+    "issuer": "ACGL",
+    "canonical_name": "Arch Capital Group",
+    "tickers": [
+      "ACGL"
+    ],
+    "wikipedia_titles": [
+      "Arch Capital Group"
+    ]
+  },
+  {
+    "cik": "0001000228",
+    "issuer": "HSIC",
+    "canonical_name": "Henry Schein",
+    "tickers": [
+      "HSIC"
+    ],
+    "wikipedia_titles": [
+      "Henry Schein"
+    ]
+  },
+  {
+    "cik": "0001000697",
+    "issuer": "WAT",
+    "canonical_name": "Waters Corporation",
+    "tickers": [
+      "WAT"
+    ],
+    "wikipedia_titles": [
+      "Waters Corporation"
+    ]
+  },
+  {
+    "cik": "0001001250",
+    "issuer": "EL",
+    "canonical_name": "Estée Lauder Companies (The)",
+    "tickers": [
+      "EL"
+    ],
+    "wikipedia_titles": [
+      "Estée Lauder Companies"
+    ]
+  },
+  {
+    "cik": "0001002047",
+    "issuer": "NTAP",
+    "canonical_name": "NetApp",
+    "tickers": [
+      "NTAP"
+    ],
+    "wikipedia_titles": [
+      "NetApp"
+    ]
+  },
+  {
+    "cik": "0001002910",
+    "issuer": "AEE",
+    "canonical_name": "Ameren",
+    "tickers": [
+      "AEE"
+    ],
+    "wikipedia_titles": [
+      "Ameren"
+    ]
+  },
+  {
+    "cik": "0001004980",
+    "issuer": "PCG",
+    "canonical_name": "PG&E Corporation",
+    "tickers": [
+      "PCG"
+    ],
+    "wikipedia_titles": [
+      "Pacific Gas and Electric Company"
+    ]
+  },
+  {
+    "cik": "0001013237",
+    "issuer": "FDS",
+    "canonical_name": "FactSet",
+    "tickers": [
+      "FDS"
+    ],
+    "wikipedia_titles": [
+      "FactSet"
+    ]
+  },
+  {
+    "cik": "0001013871",
+    "issuer": "NRG",
+    "canonical_name": "NRG Energy",
+    "tickers": [
+      "NRG"
+    ],
+    "wikipedia_titles": [
+      "NRG Energy"
+    ]
+  },
+  {
+    "cik": "0001014473",
+    "issuer": "VRSN",
+    "canonical_name": "Verisign",
+    "tickers": [
+      "VRSN"
+    ],
+    "wikipedia_titles": [
+      "Verisign"
+    ]
+  },
+  {
+    "cik": "0001018724",
+    "issuer": "AMZN",
+    "canonical_name": "Amazon",
+    "tickers": [
+      "AMZN"
+    ],
+    "wikipedia_titles": [
+      "Amazon (company)"
+    ]
+  },
+  {
+    "cik": "0001020569",
+    "issuer": "IRM",
+    "canonical_name": "Iron Mountain",
+    "tickers": [
+      "IRM"
+    ],
+    "wikipedia_titles": [
+      "Iron Mountain (company)"
+    ]
+  },
+  {
+    "cik": "0001022079",
+    "issuer": "DGX",
+    "canonical_name": "Quest Diagnostics",
+    "tickers": [
+      "DGX"
+    ],
+    "wikipedia_titles": [
+      "Quest Diagnostics"
+    ]
+  },
+  {
+    "cik": "0001022671",
+    "issuer": "STLD",
+    "canonical_name": "Steel Dynamics",
+    "tickers": [
+      "STLD"
+    ],
+    "wikipedia_titles": [
+      "Steel Dynamics"
+    ]
+  },
+  {
+    "cik": "0001024478",
+    "issuer": "ROK",
+    "canonical_name": "Rockwell Automation",
+    "tickers": [
+      "ROK"
+    ],
+    "wikipedia_titles": [
+      "Rockwell Automation"
+    ]
+  },
+  {
+    "cik": "0001031296",
+    "issuer": "FE",
+    "canonical_name": "FirstEnergy",
+    "tickers": [
+      "FE"
+    ],
+    "wikipedia_titles": [
+      "FirstEnergy"
+    ]
+  },
+  {
+    "cik": "0001032208",
+    "issuer": "SRE",
+    "canonical_name": "Sempra",
+    "tickers": [
+      "SRE"
+    ],
+    "wikipedia_titles": [
+      "Sempra"
+    ]
+  },
+  {
+    "cik": "0001034054",
+    "issuer": "SBAC",
+    "canonical_name": "SBA Communications",
+    "tickers": [
+      "SBAC"
+    ],
+    "wikipedia_titles": [
+      "SBA Communications"
+    ]
+  },
+  {
+    "cik": "0001035002",
+    "issuer": "VLO",
+    "canonical_name": "Valero Energy",
+    "tickers": [
+      "VLO"
+    ],
+    "wikipedia_titles": [
+      "Valero Energy"
+    ]
+  },
+  {
+    "cik": "0001035267",
+    "issuer": "ISRG",
+    "canonical_name": "Intuitive Surgical",
+    "tickers": [
+      "ISRG"
+    ],
+    "wikipedia_titles": [
+      "Intuitive Surgical"
+    ]
+  },
+  {
+    "cik": "0001035443",
+    "issuer": "ARE",
+    "canonical_name": "Alexandria Real Estate Equities",
+    "tickers": [
+      "ARE"
+    ],
+    "wikipedia_titles": [
+      "Alexandria Real Estate Equities"
+    ]
+  },
+  {
+    "cik": "0001035983",
+    "issuer": "FIX",
+    "canonical_name": "Comfort Systems USA",
+    "tickers": [
+      "FIX"
+    ],
+    "wikipedia_titles": [
+      "Comfort Systems USA"
+    ]
+  },
+  {
+    "cik": "0001037038",
+    "issuer": "RL",
+    "canonical_name": "Ralph Lauren Corporation",
+    "tickers": [
+      "RL"
+    ],
+    "wikipedia_titles": [
+      "Ralph Lauren Corporation"
+    ]
+  },
+  {
+    "cik": "0001037540",
+    "issuer": "BXP",
+    "canonical_name": "BXP, Inc.",
+    "tickers": [
+      "BXP"
+    ],
+    "wikipedia_titles": [
+      "BXP, Inc."
+    ]
+  },
+  {
+    "cik": "0001037646",
+    "issuer": "MTD",
+    "canonical_name": "Mettler Toledo",
+    "tickers": [
+      "MTD"
+    ],
+    "wikipedia_titles": [
+      "Mettler Toledo"
+    ]
+  },
+  {
+    "cik": "0001037868",
+    "issuer": "AME",
+    "canonical_name": "Ametek",
+    "tickers": [
+      "AME"
+    ],
+    "wikipedia_titles": [
+      "Ametek"
+    ]
+  },
+  {
+    "cik": "0001039684",
+    "issuer": "OKE",
+    "canonical_name": "Oneok",
+    "tickers": [
+      "OKE"
+    ],
+    "wikipedia_titles": [
+      "Oneok"
+    ]
+  },
+  {
+    "cik": "0001041061",
+    "issuer": "YUM",
+    "canonical_name": "Yum! Brands",
+    "tickers": [
+      "YUM"
+    ],
+    "wikipedia_titles": [
+      "Yum! Brands"
+    ]
+  },
+  {
+    "cik": "0001043277",
+    "issuer": "CHRW",
+    "canonical_name": "C.H. Robinson",
+    "tickers": [
+      "CHRW"
+    ],
+    "wikipedia_titles": [
+      "C. H. Robinson"
+    ]
+  },
+  {
+    "cik": "0001045609",
+    "issuer": "PLD",
+    "canonical_name": "Prologis",
+    "tickers": [
+      "PLD"
+    ],
+    "wikipedia_titles": [
+      "Prologis"
+    ]
+  },
+  {
+    "cik": "0001045810",
+    "issuer": "NVDA",
+    "canonical_name": "Nvidia",
+    "tickers": [
+      "NVDA"
+    ],
+    "wikipedia_titles": [
+      "Nvidia"
+    ]
+  },
+  {
+    "cik": "0001047862",
+    "issuer": "ED",
+    "canonical_name": "Consolidated Edison",
+    "tickers": [
+      "ED"
+    ],
+    "wikipedia_titles": [
+      "Consolidated Edison"
+    ]
+  },
+  {
+    "cik": "0001048286",
+    "issuer": "MAR",
+    "canonical_name": "Marriott International",
+    "tickers": [
+      "MAR"
+    ],
+    "wikipedia_titles": [
+      "Marriott International"
+    ]
+  },
+  {
+    "cik": "0001048695",
+    "issuer": "FFIV",
+    "canonical_name": "F5, Inc.",
+    "tickers": [
+      "FFIV"
+    ],
+    "wikipedia_titles": [
+      "F5, Inc."
+    ]
+  },
+  {
+    "cik": "0001048911",
+    "issuer": "FDX",
+    "canonical_name": "FedEx",
+    "tickers": [
+      "FDX"
+    ],
+    "wikipedia_titles": [
+      "FedEx"
+    ]
+  },
+  {
+    "cik": "0001050915",
+    "issuer": "PWR",
+    "canonical_name": "Quanta Services",
+    "tickers": [
+      "PWR"
+    ],
+    "wikipedia_titles": [
+      "Quanta Services"
+    ]
+  },
+  {
+    "cik": "0001051470",
+    "issuer": "CCI",
+    "canonical_name": "Crown Castle",
+    "tickers": [
+      "CCI"
+    ],
+    "wikipedia_titles": [
+      "Crown Castle"
+    ]
+  },
+  {
+    "cik": "0001053507",
+    "issuer": "AMT",
+    "canonical_name": "American Tower",
+    "tickers": [
+      "AMT"
+    ],
+    "wikipedia_titles": [
+      "American Tower"
+    ]
+  },
+  {
+    "cik": "0001057352",
+    "issuer": "CSGP",
+    "canonical_name": "CoStar Group",
+    "tickers": [
+      "CSGP"
+    ],
+    "wikipedia_titles": [
+      "CoStar Group"
+    ]
+  },
+  {
+    "cik": "0001058090",
+    "issuer": "CMG",
+    "canonical_name": "Chipotle Mexican Grill",
+    "tickers": [
+      "CMG"
+    ],
+    "wikipedia_titles": [
+      "Chipotle Mexican Grill"
+    ]
+  },
+  {
+    "cik": "0001058290",
+    "issuer": "CTSH",
+    "canonical_name": "Cognizant",
+    "tickers": [
+      "CTSH"
+    ],
+    "wikipedia_titles": [
+      "Cognizant"
+    ]
+  },
+  {
+    "cik": "0001059556",
+    "issuer": "MCO",
+    "canonical_name": "Moody's Corporation",
+    "tickers": [
+      "MCO"
+    ],
+    "wikipedia_titles": [
+      "Moody's Corporation"
+    ]
+  },
+  {
+    "cik": "0001060391",
+    "issuer": "RSG",
+    "canonical_name": "Republic Services",
+    "tickers": [
+      "RSG"
+    ],
+    "wikipedia_titles": [
+      "Republic Services"
+    ]
+  },
+  {
+    "cik": "0001063761",
+    "issuer": "SPG",
+    "canonical_name": "Simon Property Group",
+    "tickers": [
+      "SPG"
+    ],
+    "wikipedia_titles": [
+      "Simon Property Group"
+    ]
+  },
+  {
+    "cik": "0001065088",
+    "issuer": "EBAY",
+    "canonical_name": "eBay Inc.",
+    "tickers": [
+      "EBAY"
+    ],
+    "wikipedia_titles": [
+      "EBay"
+    ]
+  },
+  {
+    "cik": "0001065280",
+    "issuer": "NFLX",
+    "canonical_name": "Netflix",
+    "tickers": [
+      "NFLX"
+    ],
+    "wikipedia_titles": [
+      "Netflix, Inc."
+    ]
+  },
+  {
+    "cik": "0001067701",
+    "issuer": "URI",
+    "canonical_name": "United Rentals",
+    "tickers": [
+      "URI"
+    ],
+    "wikipedia_titles": [
+      "United Rentals"
+    ]
+  },
+  {
+    "cik": "0001067983",
+    "issuer": "BRK.A",
+    "canonical_name": "Berkshire Hathaway",
+    "tickers": [
+      "BRK.B"
+    ],
+    "wikipedia_titles": [
+      "Berkshire Hathaway"
+    ]
+  },
+  {
+    "cik": "0001069183",
+    "issuer": "AXON",
+    "canonical_name": "Axon Enterprise",
+    "tickers": [
+      "AXON"
+    ],
+    "wikipedia_titles": [
+      "Axon Enterprise"
+    ]
+  },
+  {
+    "cik": "0001069202",
+    "issuer": "LII",
+    "canonical_name": "Lennox International",
+    "tickers": [
+      "LII"
+    ],
+    "wikipedia_titles": [
+      "Lennox International"
+    ]
+  },
+  {
+    "cik": "0001070750",
+    "issuer": "HST",
+    "canonical_name": "Host Hotels & Resorts",
+    "tickers": [
+      "HST"
+    ],
+    "wikipedia_titles": [
+      "Host Hotels & Resorts"
+    ]
+  },
+  {
+    "cik": "0001071739",
+    "issuer": "CNC",
+    "canonical_name": "Centene Corporation",
+    "tickers": [
+      "CNC"
+    ],
+    "wikipedia_titles": [
+      "Centene Corporation"
+    ]
+  },
+  {
+    "cik": "0001075531",
+    "issuer": "BKNG",
+    "canonical_name": "Booking Holdings",
+    "tickers": [
+      "BKNG"
+    ],
+    "wikipedia_titles": [
+      "Booking Holdings"
+    ]
+  },
+  {
+    "cik": "0001086222",
+    "issuer": "AKAM",
+    "canonical_name": "Akamai Technologies",
+    "tickers": [
+      "AKAM"
+    ],
+    "wikipedia_titles": [
+      "Akamai Technologies"
+    ]
+  },
+  {
+    "cik": "0001090012",
+    "issuer": "DVN",
+    "canonical_name": "Devon Energy",
+    "tickers": [
+      "DVN"
+    ],
+    "wikipedia_titles": [
+      "Devon Energy"
+    ]
+  },
+  {
+    "cik": "0001090727",
+    "issuer": "UPS",
+    "canonical_name": "United Parcel Service",
+    "tickers": [
+      "UPS"
+    ],
+    "wikipedia_titles": [
+      "United Parcel Service"
+    ]
+  },
+  {
+    "cik": "0001090872",
+    "issuer": "A",
+    "canonical_name": "Agilent Technologies",
+    "tickers": [
+      "A"
+    ],
+    "wikipedia_titles": [
+      "Agilent Technologies"
+    ]
+  },
+  {
+    "cik": "0001091667",
+    "issuer": "CHTR",
+    "canonical_name": "Charter Communications",
+    "tickers": [
+      "CHTR"
+    ],
+    "wikipedia_titles": [
+      "Charter Communications"
+    ]
+  },
+  {
+    "cik": "0001093557",
+    "issuer": "DXCM",
+    "canonical_name": "Dexcom",
+    "tickers": [
+      "DXCM"
+    ],
+    "wikipedia_titles": [
+      "Dexcom"
+    ]
+  },
+  {
+    "cik": "0001094285",
+    "issuer": "TDY",
+    "canonical_name": "Teledyne Technologies",
+    "tickers": [
+      "TDY"
+    ],
+    "wikipedia_titles": [
+      "Teledyne Technologies"
+    ]
+  },
+  {
+    "cik": "0001095073",
+    "issuer": "EG",
+    "canonical_name": "Everest Group",
+    "tickers": [
+      "EG"
+    ],
+    "wikipedia_titles": [
+      "Everest Group"
+    ]
+  },
+  {
+    "cik": "0001097149",
+    "issuer": "ALGN",
+    "canonical_name": "Align Technology",
+    "tickers": [
+      "ALGN"
+    ],
+    "wikipedia_titles": [
+      "Align Technology"
+    ]
+  },
+  {
+    "cik": "0001097864",
+    "issuer": "ON",
+    "canonical_name": "ON Semiconductor",
+    "tickers": [
+      "ON"
+    ],
+    "wikipedia_titles": [
+      "Onsemi"
+    ]
+  },
+  {
+    "cik": "0001099219",
+    "issuer": "MET",
+    "canonical_name": "MetLife",
+    "tickers": [
+      "MET"
+    ],
+    "wikipedia_titles": [
+      "MetLife"
+    ]
+  },
+  {
+    "cik": "0001099800",
+    "issuer": "EW",
+    "canonical_name": "Edwards Lifesciences",
+    "tickers": [
+      "EW"
+    ],
+    "wikipedia_titles": [
+      "Edwards Lifesciences"
+    ]
+  },
+  {
+    "cik": "0001100682",
+    "issuer": "CRL",
+    "canonical_name": "Charles River Laboratories",
+    "tickers": [
+      "CRL"
+    ],
+    "wikipedia_titles": [
+      "Charles River Laboratories"
+    ]
+  },
+  {
+    "cik": "0001101239",
+    "issuer": "EQIX",
+    "canonical_name": "Equinix",
+    "tickers": [
+      "EQIX"
+    ],
+    "wikipedia_titles": [
+      "Equinix"
+    ]
+  },
+  {
+    "cik": "0001103982",
+    "issuer": "MDLZ",
+    "canonical_name": "Mondelez International",
+    "tickers": [
+      "MDLZ"
+    ],
+    "wikipedia_titles": [
+      "Mondelez International"
+    ]
+  },
+  {
+    "cik": "0001108524",
+    "issuer": "CRM",
+    "canonical_name": "Salesforce",
+    "tickers": [
+      "CRM"
+    ],
+    "wikipedia_titles": [
+      "Salesforce"
+    ]
+  },
+  {
+    "cik": "0001109357",
+    "issuer": "EXC",
+    "canonical_name": "Exelon",
+    "tickers": [
+      "EXC"
+    ],
+    "wikipedia_titles": [
+      "Exelon"
+    ]
+  },
+  {
+    "cik": "0001111711",
+    "issuer": "NI",
+    "canonical_name": "NiSource",
+    "tickers": [
+      "NI"
+    ],
+    "wikipedia_titles": [
+      "NiSource"
+    ]
+  },
+  {
+    "cik": "0001113169",
+    "issuer": "TROW",
+    "canonical_name": "T. Rowe Price",
+    "tickers": [
+      "TROW"
+    ],
+    "wikipedia_titles": [
+      "T. Rowe Price"
+    ]
+  },
+  {
+    "cik": "0001116132",
+    "issuer": "TPR",
+    "canonical_name": "Tapestry, Inc.",
+    "tickers": [
+      "TPR"
+    ],
+    "wikipedia_titles": [
+      "Tapestry, Inc."
+    ]
+  },
+  {
+    "cik": "0001120193",
+    "issuer": "NDAQ",
+    "canonical_name": "Nasdaq, Inc.",
+    "tickers": [
+      "NDAQ"
+    ],
+    "wikipedia_titles": [
+      "Nasdaq, Inc."
+    ]
+  },
+  {
+    "cik": "0001121788",
+    "issuer": "GRMN",
+    "canonical_name": "Garmin",
+    "tickers": [
+      "GRMN"
+    ],
+    "wikipedia_titles": [
+      "Garmin"
+    ]
+  },
+  {
+    "cik": "0001123360",
+    "issuer": "GPN",
+    "canonical_name": "Global Payments",
+    "tickers": [
+      "GPN"
+    ],
+    "wikipedia_titles": [
+      "Global Payments"
+    ]
+  },
+  {
+    "cik": "0001126328",
+    "issuer": "PFG",
+    "canonical_name": "Principal Financial Group",
+    "tickers": [
+      "PFG"
+    ],
+    "wikipedia_titles": [
+      "Principal Financial Group"
+    ]
+  },
+  {
+    "cik": "0001130310",
+    "issuer": "CNP",
+    "canonical_name": "CenterPoint Energy",
+    "tickers": [
+      "CNP"
+    ],
+    "wikipedia_titles": [
+      "CenterPoint Energy"
+    ]
+  },
+  {
+    "cik": "0001133421",
+    "issuer": "NOC",
+    "canonical_name": "Northrop Grumman",
+    "tickers": [
+      "NOC"
+    ],
+    "wikipedia_titles": [
+      "Northrop Grumman"
+    ]
+  },
+  {
+    "cik": "0001136869",
+    "issuer": "ZBH",
+    "canonical_name": "Zimmer Biomet",
+    "tickers": [
+      "ZBH"
+    ],
+    "wikipedia_titles": [
+      "Zimmer Biomet"
+    ]
+  },
+  {
+    "cik": "0001136893",
+    "issuer": "FIS",
+    "canonical_name": "Fidelity National Information Services",
+    "tickers": [
+      "FIS"
+    ],
+    "wikipedia_titles": [
+      "FIS (company)"
+    ]
+  },
+  {
+    "cik": "0001137774",
+    "issuer": "PRU",
+    "canonical_name": "Prudential Financial",
+    "tickers": [
+      "PRU"
+    ],
+    "wikipedia_titles": [
+      "Prudential Financial"
+    ]
+  },
+  {
+    "cik": "0001137789",
+    "issuer": "STX",
+    "canonical_name": "Seagate Technology",
+    "tickers": [
+      "STX"
+    ],
+    "wikipedia_titles": [
+      "Seagate Technology"
+    ]
+  },
+  {
+    "cik": "0001138118",
+    "issuer": "CBRE",
+    "canonical_name": "CBRE Group",
+    "tickers": [
+      "CBRE"
+    ],
+    "wikipedia_titles": [
+      "CBRE Group"
+    ]
+  },
+  {
+    "cik": "0001140536",
+    "issuer": "WTW",
+    "canonical_name": "Willis Towers Watson",
+    "tickers": [
+      "WTW"
+    ],
+    "wikipedia_titles": [
+      "Willis Towers Watson"
+    ]
+  },
+  {
+    "cik": "0001140859",
+    "issuer": "COR",
+    "canonical_name": "Cencora",
+    "tickers": [
+      "COR"
+    ],
+    "wikipedia_titles": [
+      "Cencora"
+    ]
+  },
+  {
+    "cik": "0001141391",
+    "issuer": "MA",
+    "canonical_name": "Mastercard",
+    "tickers": [
+      "MA"
+    ],
+    "wikipedia_titles": [
+      "Mastercard"
+    ]
+  },
+  {
+    "cik": "0001145197",
+    "issuer": "PODD",
+    "canonical_name": "Insulet Corporation",
+    "tickers": [
+      "PODD"
+    ],
+    "wikipedia_titles": [
+      "Insulet Corporation"
+    ]
+  },
+  {
+    "cik": "0001156039",
+    "issuer": "ELV",
+    "canonical_name": "Elevance Health",
+    "tickers": [
+      "ELV"
+    ],
+    "wikipedia_titles": [
+      "Elevance Health"
+    ]
+  },
+  {
+    "cik": "0001156375",
+    "issuer": "CME",
+    "canonical_name": "CME Group",
+    "tickers": [
+      "CME"
+    ],
+    "wikipedia_titles": [
+      "CME Group"
+    ]
+  },
+  {
+    "cik": "0001163165",
+    "issuer": "COP",
+    "canonical_name": "ConocoPhillips",
+    "tickers": [
+      "COP"
+    ],
+    "wikipedia_titles": [
+      "ConocoPhillips"
+    ]
+  },
+  {
+    "cik": "0001164727",
+    "issuer": "NEM",
+    "canonical_name": "Newmont",
+    "tickers": [
+      "NEM"
+    ],
+    "wikipedia_titles": [
+      "Newmont"
+    ]
+  },
+  {
+    "cik": "0001166691",
+    "issuer": "CMCSA",
+    "canonical_name": "Comcast",
+    "tickers": [
+      "CMCSA"
+    ],
+    "wikipedia_titles": [
+      "Comcast"
+    ]
+  },
+  {
+    "cik": "0001174922",
+    "issuer": "WYNN",
+    "canonical_name": "Wynn Resorts",
+    "tickers": [
+      "WYNN"
+    ],
+    "wikipedia_titles": [
+      "Wynn Resorts"
+    ]
+  },
+  {
+    "cik": "0001175454",
+    "issuer": "CPAY",
+    "canonical_name": "Corpay",
+    "tickers": [
+      "CPAY"
+    ],
+    "wikipedia_titles": [
+      "Corpay"
+    ]
+  },
+  {
+    "cik": "0001176948",
+    "issuer": "ARES",
+    "canonical_name": "Ares Management",
+    "tickers": [
+      "ARES"
+    ],
+    "wikipedia_titles": [
+      "Ares Management"
+    ]
+  },
+  {
+    "cik": "0001260221",
+    "issuer": "TDG",
+    "canonical_name": "TransDigm Group",
+    "tickers": [
+      "TDG"
+    ],
+    "wikipedia_titles": [
+      "TransDigm Group"
+    ]
+  },
+  {
+    "cik": "0001262039",
+    "issuer": "FTNT",
+    "canonical_name": "Fortinet",
+    "tickers": [
+      "FTNT"
+    ],
+    "wikipedia_titles": [
+      "Fortinet"
+    ]
+  },
+  {
+    "cik": "0001267238",
+    "issuer": "AIZ",
+    "canonical_name": "Assurant",
+    "tickers": [
+      "AIZ"
+    ],
+    "wikipedia_titles": [
+      "Assurant"
+    ]
+  },
+  {
+    "cik": "0001274494",
+    "issuer": "FSLR",
+    "canonical_name": "First Solar",
+    "tickers": [
+      "FSLR"
+    ],
+    "wikipedia_titles": [
+      "First Solar"
+    ]
+  },
+  {
+    "cik": "0001280452",
+    "issuer": "MPWR",
+    "canonical_name": "Monolithic Power Systems",
+    "tickers": [
+      "MPWR"
+    ],
+    "wikipedia_titles": [
+      "Monolithic Power Systems"
+    ]
+  },
+  {
+    "cik": "0001281761",
+    "issuer": "RF",
+    "canonical_name": "Regions Financial Corporation",
+    "tickers": [
+      "RF"
+    ],
+    "wikipedia_titles": [
+      "Regions Financial Corporation"
+    ]
+  },
+  {
+    "cik": "0001283699",
+    "issuer": "TMUS",
+    "canonical_name": "T-Mobile US",
+    "tickers": [
+      "TMUS"
+    ],
+    "wikipedia_titles": [
+      "T-Mobile US"
+    ]
+  },
+  {
+    "cik": "0001285785",
+    "issuer": "MOS",
+    "canonical_name": "Mosaic Company (The)",
+    "tickers": [
+      "MOS"
+    ],
+    "wikipedia_titles": [
+      "The Mosaic Company"
+    ]
+  },
+  {
+    "cik": "0001286681",
+    "issuer": "DPZ",
+    "canonical_name": "Domino's",
+    "tickers": [
+      "DPZ"
+    ],
+    "wikipedia_titles": [
+      "Domino's"
+    ]
+  },
+  {
+    "cik": "0001289490",
+    "issuer": "EXR",
+    "canonical_name": "Extra Space Storage",
+    "tickers": [
+      "EXR"
+    ],
+    "wikipedia_titles": [
+      "Extra Space Storage"
+    ]
+  },
+  {
+    "cik": "0001297996",
+    "issuer": "DLR",
+    "canonical_name": "Digital Realty",
+    "tickers": [
+      "DLR"
+    ],
+    "wikipedia_titles": [
+      "Digital Realty"
+    ]
+  },
+  {
+    "cik": "0001300514",
+    "issuer": "LVS",
+    "canonical_name": "Las Vegas Sands",
+    "tickers": [
+      "LVS"
+    ],
+    "wikipedia_titles": [
+      "Las Vegas Sands"
+    ]
+  },
+  {
+    "cik": "0001316835",
+    "issuer": "BLDR",
+    "canonical_name": "Builders FirstSource",
+    "tickers": [
+      "BLDR"
+    ],
+    "wikipedia_titles": [
+      "Builders FirstSource"
+    ]
+  },
+  {
+    "cik": "0001318605",
+    "issuer": "TSLA",
+    "canonical_name": "Tesla, Inc.",
+    "tickers": [
+      "TSLA"
+    ],
+    "wikipedia_titles": [
+      "Tesla, Inc."
+    ]
+  },
+  {
+    "cik": "0001321655",
+    "issuer": "PLTR",
+    "canonical_name": "Palantir Technologies",
+    "tickers": [
+      "PLTR"
+    ],
+    "wikipedia_titles": [
+      "Palantir"
+    ]
+  },
+  {
+    "cik": "0001324404",
+    "issuer": "CF",
+    "canonical_name": "CF Industries",
+    "tickers": [
+      "CF"
+    ],
+    "wikipedia_titles": [
+      "CF Industries"
+    ]
+  },
+  {
+    "cik": "0001324424",
+    "issuer": "EXPE",
+    "canonical_name": "Expedia Group",
+    "tickers": [
+      "EXPE"
+    ],
+    "wikipedia_titles": [
+      "Expedia Group"
+    ]
+  },
+  {
+    "cik": "0001326160",
+    "issuer": "DUK",
+    "canonical_name": "Duke Energy",
+    "tickers": [
+      "DUK"
+    ],
+    "wikipedia_titles": [
+      "Duke Energy"
+    ]
+  },
+  {
+    "cik": "0001326801",
+    "issuer": "META",
+    "canonical_name": "Meta Platforms",
+    "tickers": [
+      "META"
+    ],
+    "wikipedia_titles": [
+      "Meta Platforms"
+    ]
+  },
+  {
+    "cik": "0001327567",
+    "issuer": "PANW",
+    "canonical_name": "Palo Alto Networks",
+    "tickers": [
+      "PANW"
+    ],
+    "wikipedia_titles": [
+      "Palo Alto Networks"
+    ]
+  },
+  {
+    "cik": "0001327811",
+    "issuer": "WDAY",
+    "canonical_name": "Workday, Inc.",
+    "tickers": [
+      "WDAY"
+    ],
+    "wikipedia_titles": [
+      "Workday, Inc."
+    ]
+  },
+  {
+    "cik": "0001335258",
+    "issuer": "LYV",
+    "canonical_name": "Live Nation Entertainment",
+    "tickers": [
+      "LYV"
+    ],
+    "wikipedia_titles": [
+      "Live Nation Entertainment"
+    ]
+  },
+  {
+    "cik": "0001336920",
+    "issuer": "LDOS",
+    "canonical_name": "Leidos",
+    "tickers": [
+      "LDOS"
+    ],
+    "wikipedia_titles": [
+      "Leidos"
+    ]
+  },
+  {
+    "cik": "0001341439",
+    "issuer": "ORCL",
+    "canonical_name": "Oracle Corporation",
+    "tickers": [
+      "ORCL"
+    ],
+    "wikipedia_titles": [
+      "Oracle Corporation"
+    ]
+  },
+  {
+    "cik": "0001373715",
+    "issuer": "NOW",
+    "canonical_name": "ServiceNow",
+    "tickers": [
+      "NOW"
+    ],
+    "wikipedia_titles": [
+      "ServiceNow"
+    ]
+  },
+  {
+    "cik": "0001374310",
+    "issuer": "CBOE",
+    "canonical_name": "Cboe Global Markets",
+    "tickers": [
+      "CBOE"
+    ],
+    "wikipedia_titles": [
+      "Cboe Global Markets"
+    ]
+  },
+  {
+    "cik": "0001375365",
+    "issuer": "SMCI",
+    "canonical_name": "Supermicro",
+    "tickers": [
+      "SMCI"
+    ],
+    "wikipedia_titles": [
+      "Supermicro"
+    ]
+  },
+  {
+    "cik": "0001381197",
+    "issuer": "IBKR",
+    "canonical_name": "Interactive Brokers",
+    "tickers": [
+      "IBKR"
+    ],
+    "wikipedia_titles": [
+      "Interactive Brokers"
+    ]
+  },
+  {
+    "cik": "0001383312",
+    "issuer": "BR",
+    "canonical_name": "Broadridge Financial Solutions",
+    "tickers": [
+      "BR"
+    ],
+    "wikipedia_titles": [
+      "Broadridge Financial Solutions"
+    ]
+  },
+  {
+    "cik": "0001385157",
+    "issuer": "TEL",
+    "canonical_name": "TE Connectivity",
+    "tickers": [
+      "TEL"
+    ],
+    "wikipedia_titles": [
+      "TE Connectivity"
+    ]
+  },
+  {
+    "cik": "0001389170",
+    "issuer": "TRGP",
+    "canonical_name": "Targa Resources",
+    "tickers": [
+      "TRGP"
+    ],
+    "wikipedia_titles": [
+      "Targa Resources"
+    ]
+  },
+  {
+    "cik": "0001390777",
+    "issuer": "BNY",
+    "canonical_name": "BNY Mellon",
+    "tickers": [
+      "BNY"
+    ],
+    "wikipedia_titles": [
+      "BNY"
+    ]
+  },
+  {
+    "cik": "0001393052",
+    "issuer": "VEEV",
+    "canonical_name": "Veeva Systems",
+    "tickers": [
+      "VEEV"
+    ],
+    "wikipedia_titles": [
+      "Veeva Systems"
+    ]
+  },
+  {
+    "cik": "0001393311",
+    "issuer": "PSA",
+    "canonical_name": "Public Storage",
+    "tickers": [
+      "PSA"
+    ],
+    "wikipedia_titles": [
+      "Public Storage"
+    ]
+  },
+  {
+    "cik": "0001393818",
+    "issuer": "BX",
+    "canonical_name": "Blackstone Inc.",
+    "tickers": [
+      "BX"
+    ],
+    "wikipedia_titles": [
+      "Blackstone Inc."
+    ]
+  },
+  {
+    "cik": "0001396009",
+    "issuer": "VMC",
+    "canonical_name": "Vulcan Materials Company",
+    "tickers": [
+      "VMC"
+    ],
+    "wikipedia_titles": [
+      "Vulcan Materials Company"
+    ]
+  },
+  {
+    "cik": "0001397187",
+    "issuer": "LULU",
+    "canonical_name": "Lululemon Athletica",
+    "tickers": [
+      "LULU"
+    ],
+    "wikipedia_titles": [
+      "Lululemon"
+    ]
+  },
+  {
+    "cik": "0001402057",
+    "issuer": "CDW",
+    "canonical_name": "CDW Corporation",
+    "tickers": [
+      "CDW"
+    ],
+    "wikipedia_titles": [
+      "CDW"
+    ]
+  },
+  {
+    "cik": "0001403161",
+    "issuer": "V",
+    "canonical_name": "Visa Inc.",
+    "tickers": [
+      "V"
+    ],
+    "wikipedia_titles": [
+      "Visa Inc."
+    ]
+  },
+  {
+    "cik": "0001403568",
+    "issuer": "ULTA",
+    "canonical_name": "Ulta Beauty",
+    "tickers": [
+      "ULTA"
+    ],
+    "wikipedia_titles": [
+      "Ulta Beauty"
+    ]
+  },
+  {
+    "cik": "0001404912",
+    "issuer": "KKR",
+    "canonical_name": "KKR & Co.",
+    "tickers": [
+      "KKR"
+    ],
+    "wikipedia_titles": [
+      "KKR & Co."
+    ]
+  },
+  {
+    "cik": "0001408198",
+    "issuer": "MSCI",
+    "canonical_name": "MSCI Inc.",
+    "tickers": [
+      "MSCI"
+    ],
+    "wikipedia_titles": [
+      "MSCI"
+    ]
+  },
+  {
+    "cik": "0001410636",
+    "issuer": "AWK",
+    "canonical_name": "American Water Works",
+    "tickers": [
+      "AWK"
+    ],
+    "wikipedia_titles": [
+      "American Water Works"
+    ]
+  },
+  {
+    "cik": "0001413329",
+    "issuer": "PM",
+    "canonical_name": "Philip Morris International",
+    "tickers": [
+      "PM"
+    ],
+    "wikipedia_titles": [
+      "Philip Morris International"
+    ]
+  },
+  {
+    "cik": "0001413447",
+    "issuer": "NXPI",
+    "canonical_name": "NXP Semiconductors",
+    "tickers": [
+      "NXPI"
+    ],
+    "wikipedia_titles": [
+      "NXP Semiconductors"
+    ]
+  },
+  {
+    "cik": "0001415404",
+    "issuer": "SATS",
+    "canonical_name": "EchoStar",
+    "tickers": [
+      "SATS"
+    ],
+    "wikipedia_titles": [
+      "EchoStar"
+    ]
+  },
+  {
+    "cik": "0001418135",
+    "issuer": "KDP",
+    "canonical_name": "Keurig Dr Pepper",
+    "tickers": [
+      "KDP"
+    ],
+    "wikipedia_titles": [
+      "Keurig Dr Pepper"
+    ]
+  },
+  {
+    "cik": "0001437107",
+    "issuer": "WBD",
+    "canonical_name": "Warner Bros. Discovery",
+    "tickers": [
+      "WBD"
+    ],
+    "wikipedia_titles": [
+      "Warner Bros. Discovery"
+    ]
+  },
+  {
+    "cik": "0001442145",
+    "issuer": "VRSK",
+    "canonical_name": "Verisk Analytics",
+    "tickers": [
+      "VRSK"
+    ],
+    "wikipedia_titles": [
+      "Verisk Analytics"
+    ]
+  },
+  {
+    "cik": "0001466258",
+    "issuer": "TT",
+    "canonical_name": "Trane Technologies",
+    "tickers": [
+      "TT"
+    ],
+    "wikipedia_titles": [
+      "Trane Technologies"
+    ]
+  },
+  {
+    "cik": "0001467373",
+    "issuer": "ACN",
+    "canonical_name": "Accenture",
+    "tickers": [
+      "ACN"
+    ],
+    "wikipedia_titles": [
+      "Accenture"
+    ]
+  },
+  {
+    "cik": "0001467858",
+    "issuer": "GM",
+    "canonical_name": "General Motors",
+    "tickers": [
+      "GM"
+    ],
+    "wikipedia_titles": [
+      "General Motors"
+    ]
+  },
+  {
+    "cik": "0001474735",
+    "issuer": "GNRC",
+    "canonical_name": "Generac",
+    "tickers": [
+      "GNRC"
+    ],
+    "wikipedia_titles": [
+      "Generac"
+    ]
+  },
+  {
+    "cik": "0001478242",
+    "issuer": "IQV",
+    "canonical_name": "IQVIA",
+    "tickers": [
+      "IQV"
+    ],
+    "wikipedia_titles": [
+      "IQVIA"
+    ]
+  },
+  {
+    "cik": "0001489393",
+    "issuer": "LYB",
+    "canonical_name": "LyondellBasell",
+    "tickers": [
+      "LYB"
+    ],
+    "wikipedia_titles": [
+      "LyondellBasell"
+    ]
+  },
+  {
+    "cik": "0001501585",
+    "issuer": "HII",
+    "canonical_name": "Huntington Ingalls Industries",
+    "tickers": [
+      "HII"
+    ],
+    "wikipedia_titles": [
+      "Huntington Ingalls Industries"
+    ]
+  },
+  {
+    "cik": "0001506307",
+    "issuer": "KMI",
+    "canonical_name": "Kinder Morgan",
+    "tickers": [
+      "KMI"
+    ],
+    "wikipedia_titles": [
+      "Kinder Morgan"
+    ]
+  },
+  {
+    "cik": "0001510295",
+    "issuer": "MPC",
+    "canonical_name": "Marathon Petroleum",
+    "tickers": [
+      "MPC"
+    ],
+    "wikipedia_titles": [
+      "Marathon Petroleum"
+    ]
+  },
+  {
+    "cik": "0001512673",
+    "issuer": "XYZ",
+    "canonical_name": "Block, Inc.",
+    "tickers": [
+      "XYZ"
+    ],
+    "wikipedia_titles": [
+      "Block, Inc."
+    ]
+  },
+  {
+    "cik": "0001513761",
+    "issuer": "NCLH",
+    "canonical_name": "Norwegian Cruise Line Holdings",
+    "tickers": [
+      "NCLH"
+    ],
+    "wikipedia_titles": [
+      "Norwegian Cruise Line Holdings"
+    ]
+  },
+  {
+    "cik": "0001521332",
+    "issuer": "APTV",
+    "canonical_name": "Aptiv",
+    "tickers": [
+      "APTV"
+    ],
+    "wikipedia_titles": [
+      "Aptiv"
+    ]
+  },
+  {
+    "cik": "0001524472",
+    "issuer": "XYL",
+    "canonical_name": "Xylem Inc.",
+    "tickers": [
+      "XYL"
+    ],
+    "wikipedia_titles": [
+      "Xylem Inc."
+    ]
+  },
+  {
+    "cik": "0001534701",
+    "issuer": "PSX",
+    "canonical_name": "Phillips 66",
+    "tickers": [
+      "PSX"
+    ],
+    "wikipedia_titles": [
+      "Phillips 66"
+    ]
+  },
+  {
+    "cik": "0001535527",
+    "issuer": "CRWD",
+    "canonical_name": "CrowdStrike",
+    "tickers": [
+      "CRWD"
+    ],
+    "wikipedia_titles": [
+      "CrowdStrike"
+    ]
+  },
+  {
+    "cik": "0001539838",
+    "issuer": "FANG",
+    "canonical_name": "Diamondback Energy",
+    "tickers": [
+      "FANG"
+    ],
+    "wikipedia_titles": [
+      "Diamondback Energy"
+    ]
+  },
+  {
+    "cik": "0001543151",
+    "issuer": "UBER",
+    "canonical_name": "Uber",
+    "tickers": [
+      "UBER"
+    ],
+    "wikipedia_titles": [
+      "Uber"
+    ]
+  },
+  {
+    "cik": "0001551152",
+    "issuer": "ABBV",
+    "canonical_name": "AbbVie",
+    "tickers": [
+      "ABBV"
+    ],
+    "wikipedia_titles": [
+      "AbbVie"
+    ]
+  },
+  {
+    "cik": "0001551182",
+    "issuer": "ETN",
+    "canonical_name": "Eaton Corporation",
+    "tickers": [
+      "ETN"
+    ],
+    "wikipedia_titles": [
+      "Eaton Corporation"
+    ]
+  },
+  {
+    "cik": "0001555280",
+    "issuer": "ZTS",
+    "canonical_name": "Zoetis",
+    "tickers": [
+      "ZTS"
+    ],
+    "wikipedia_titles": [
+      "Zoetis"
+    ]
+  },
+  {
+    "cik": "0001559720",
+    "issuer": "ABNB",
+    "canonical_name": "Airbnb",
+    "tickers": [
+      "ABNB"
+    ],
+    "wikipedia_titles": [
+      "Airbnb"
+    ]
+  },
+  {
+    "cik": "0001561550",
+    "issuer": "DDOG",
+    "canonical_name": "Datadog",
+    "tickers": [
+      "DDOG"
+    ],
+    "wikipedia_titles": [
+      "Datadog"
+    ]
+  },
+  {
+    "cik": "0001564708",
+    "issuer": "NWSA",
+    "canonical_name": "News Corp (Class A)",
+    "tickers": [
+      "NWSA",
+      "NWS"
+    ],
+    "wikipedia_titles": [
+      "News Corp"
+    ]
+  },
+  {
+    "cik": "0001571949",
+    "issuer": "ICE",
+    "canonical_name": "Intercontinental Exchange",
+    "tickers": [
+      "ICE"
+    ],
+    "wikipedia_titles": [
+      "Intercontinental Exchange"
+    ]
+  },
+  {
+    "cik": "0001571996",
+    "issuer": "DELL",
+    "canonical_name": "Dell Technologies",
+    "tickers": [
+      "DELL"
+    ],
+    "wikipedia_titles": [
+      "Dell Technologies"
+    ]
+  },
+  {
+    "cik": "0001579241",
+    "issuer": "ALLE",
+    "canonical_name": "Allegion",
+    "tickers": [
+      "ALLE"
+    ],
+    "wikipedia_titles": [
+      "Allegion"
+    ]
+  },
+  {
+    "cik": "0001585689",
+    "issuer": "HLT",
+    "canonical_name": "Hilton Worldwide",
+    "tickers": [
+      "HLT"
+    ],
+    "wikipedia_titles": [
+      "Hilton Worldwide"
+    ]
+  },
+  {
+    "cik": "0001596532",
+    "issuer": "ANET",
+    "canonical_name": "Arista Networks",
+    "tickers": [
+      "ANET"
+    ],
+    "wikipedia_titles": [
+      "Arista Networks"
+    ]
+  },
+  {
+    "cik": "0001601046",
+    "issuer": "KEYS",
+    "canonical_name": "Keysight Technologies",
+    "tickers": [
+      "KEYS"
+    ],
+    "wikipedia_titles": [
+      "Keysight"
+    ]
+  },
+  {
+    "cik": "0001601712",
+    "issuer": "SYF",
+    "canonical_name": "Synchrony Financial",
+    "tickers": [
+      "SYF"
+    ],
+    "wikipedia_titles": [
+      "Synchrony Financial"
+    ]
+  },
+  {
+    "cik": "0001609711",
+    "issuer": "GDDY",
+    "canonical_name": "GoDaddy",
+    "tickers": [
+      "GDDY"
+    ],
+    "wikipedia_titles": [
+      "GoDaddy"
+    ]
+  },
+  {
+    "cik": "0001613103",
+    "issuer": "MDT",
+    "canonical_name": "Medtronic",
+    "tickers": [
+      "MDT"
+    ],
+    "wikipedia_titles": [
+      "Medtronic"
+    ]
+  },
+  {
+    "cik": "0001633917",
+    "issuer": "PYPL",
+    "canonical_name": "PayPal",
+    "tickers": [
+      "PYPL"
+    ],
+    "wikipedia_titles": [
+      "PayPal"
+    ]
+  },
+  {
+    "cik": "0001633978",
+    "issuer": "LITE",
+    "canonical_name": "Lumentum",
+    "tickers": [
+      "LITE"
+    ],
+    "wikipedia_titles": [
+      "Lumentum"
+    ]
+  },
+  {
+    "cik": "0001637459",
+    "issuer": "KHC",
+    "canonical_name": "Kraft Heinz",
+    "tickers": [
+      "KHC"
+    ],
+    "wikipedia_titles": [
+      "Kraft Heinz"
+    ]
+  },
+  {
+    "cik": "0001645590",
+    "issuer": "HPE",
+    "canonical_name": "Hewlett Packard Enterprise",
+    "tickers": [
+      "HPE"
+    ],
+    "wikipedia_titles": [
+      "Hewlett Packard Enterprise"
+    ]
+  },
+  {
+    "cik": "0001652044",
+    "issuer": "GOOGL",
+    "canonical_name": "Alphabet Inc. (Class A)",
+    "tickers": [
+      "GOOGL",
+      "GOOG"
+    ],
+    "wikipedia_titles": [
+      "Alphabet Inc."
+    ]
+  },
+  {
+    "cik": "0001659166",
+    "issuer": "FTV",
+    "canonical_name": "Fortive",
+    "tickers": [
+      "FTV"
+    ],
+    "wikipedia_titles": [
+      "Fortive"
+    ]
+  },
+  {
+    "cik": "0001666700",
+    "issuer": "DD",
+    "canonical_name": "DuPont",
+    "tickers": [
+      "DD"
+    ],
+    "wikipedia_titles": [
+      "DuPont"
+    ]
+  },
+  {
+    "cik": "0001671933",
+    "issuer": "TTD",
+    "canonical_name": "Trade Desk (The)",
+    "tickers": [
+      "TTD"
+    ],
+    "wikipedia_titles": [
+      "The Trade Desk"
+    ]
+  },
+  {
+    "cik": "0001674101",
+    "issuer": "VRT",
+    "canonical_name": "Vertiv",
+    "tickers": [
+      "VRT"
+    ],
+    "wikipedia_titles": [
+      "Vertiv"
+    ]
+  },
+  {
+    "cik": "0001679788",
+    "issuer": "COIN",
+    "canonical_name": "Coinbase",
+    "tickers": [
+      "COIN"
+    ],
+    "wikipedia_titles": [
+      "Coinbase"
+    ]
+  },
+  {
+    "cik": "0001682852",
+    "issuer": "MRNA",
+    "canonical_name": "Moderna",
+    "tickers": [
+      "MRNA"
+    ],
+    "wikipedia_titles": [
+      "Moderna"
+    ]
+  },
+  {
+    "cik": "0001687229",
+    "issuer": "INVH",
+    "canonical_name": "Invitation Homes",
+    "tickers": [
+      "INVH"
+    ],
+    "wikipedia_titles": [
+      "Invitation Homes"
+    ]
+  },
+  {
+    "cik": "0001690820",
+    "issuer": "CVNA",
+    "canonical_name": "Carvana",
+    "tickers": [
+      "CVNA"
+    ],
+    "wikipedia_titles": [
+      "Carvana"
+    ]
+  },
+  {
+    "cik": "0001692819",
+    "issuer": "VST",
+    "canonical_name": "Vistra Corp.",
+    "tickers": [
+      "VST"
+    ],
+    "wikipedia_titles": [
+      "Vistra Corp."
+    ]
+  },
+  {
+    "cik": "0001699150",
+    "issuer": "IR",
+    "canonical_name": "Ingersoll Rand",
+    "tickers": [
+      "IR"
+    ],
+    "wikipedia_titles": [
+      "Ingersoll Rand"
+    ]
+  },
+  {
+    "cik": "0001701605",
+    "issuer": "BKR",
+    "canonical_name": "Baker Hughes",
+    "tickers": [
+      "BKR"
+    ],
+    "wikipedia_titles": [
+      "Baker Hughes"
+    ]
+  },
+  {
+    "cik": "0001705696",
+    "issuer": "VICI",
+    "canonical_name": "Vici Properties",
+    "tickers": [
+      "VICI"
+    ],
+    "wikipedia_titles": [
+      "Vici Properties"
+    ]
+  },
+  {
+    "cik": "0001707925",
+    "issuer": "LIN",
+    "canonical_name": "Linde plc",
+    "tickers": [
+      "LIN"
+    ],
+    "wikipedia_titles": [
+      "Linde plc"
+    ]
+  },
+  {
+    "cik": "0001711269",
+    "issuer": "EVRG",
+    "canonical_name": "Evergy",
+    "tickers": [
+      "EVRG"
+    ],
+    "wikipedia_titles": [
+      "Evergy"
+    ]
+  },
+  {
+    "cik": "0001730168",
+    "issuer": "AVGO",
+    "canonical_name": "Broadcom",
+    "tickers": [
+      "AVGO"
+    ],
+    "wikipedia_titles": [
+      "Broadcom"
+    ]
+  },
+  {
+    "cik": "0001739940",
+    "issuer": "CI",
+    "canonical_name": "Cigna",
+    "tickers": [
+      "CI"
+    ],
+    "wikipedia_titles": [
+      "The Cigna Group"
+    ]
+  },
+  {
+    "cik": "0001744489",
+    "issuer": "DIS",
+    "canonical_name": "Walt Disney Company (The)",
+    "tickers": [
+      "DIS"
+    ],
+    "wikipedia_titles": [
+      "The Walt Disney Company"
+    ]
+  },
+  {
+    "cik": "0001748790",
+    "issuer": "AMCR",
+    "canonical_name": "Amcor",
+    "tickers": [
+      "AMCR"
+    ],
+    "wikipedia_titles": [
+      "Amcor"
+    ]
+  },
+  {
+    "cik": "0001751008",
+    "issuer": "APP",
+    "canonical_name": "AppLovin",
+    "tickers": [
+      "APP"
+    ],
+    "wikipedia_titles": [
+      "AppLovin"
+    ]
+  },
+  {
+    "cik": "0001751788",
+    "issuer": "DOW",
+    "canonical_name": "Dow Inc.",
+    "tickers": [
+      "DOW"
+    ],
+    "wikipedia_titles": [
+      "Dow Chemical Company"
+    ]
+  },
+  {
+    "cik": "0001754301",
+    "issuer": "FOXA",
+    "canonical_name": "Fox Corporation (Class A)",
+    "tickers": [
+      "FOXA",
+      "FOX"
+    ],
+    "wikipedia_titles": [
+      "Fox Corporation"
+    ]
+  },
+  {
+    "cik": "0001755672",
+    "issuer": "CTVA",
+    "canonical_name": "Corteva",
+    "tickers": [
+      "CTVA"
+    ],
+    "wikipedia_titles": [
+      "Corteva"
+    ]
+  },
+  {
+    "cik": "0001757898",
+    "issuer": "STE",
+    "canonical_name": "Steris",
+    "tickers": [
+      "STE"
+    ],
+    "wikipedia_titles": [
+      "Steris"
+    ]
+  },
+  {
+    "cik": "0001781335",
+    "issuer": "OTIS",
+    "canonical_name": "Otis Worldwide",
+    "tickers": [
+      "OTIS"
+    ],
+    "wikipedia_titles": [
+      "Otis Worldwide"
+    ]
+  },
+  {
+    "cik": "0001783180",
+    "issuer": "CARR",
+    "canonical_name": "Carrier Global",
+    "tickers": [
+      "CARR"
+    ],
+    "wikipedia_titles": [
+      "Carrier Global"
+    ]
+  },
+  {
+    "cik": "0001783879",
+    "issuer": "HOOD",
+    "canonical_name": "Robinhood Markets",
+    "tickers": [
+      "HOOD"
+    ],
+    "wikipedia_titles": [
+      "Robinhood Markets"
+    ]
+  },
+  {
+    "cik": "0001792044",
+    "issuer": "VTRS",
+    "canonical_name": "Viatris",
+    "tickers": [
+      "VTRS"
+    ],
+    "wikipedia_titles": [
+      "Viatris"
+    ]
+  },
+  {
+    "cik": "0001792789",
+    "issuer": "DASH",
+    "canonical_name": "DoorDash",
+    "tickers": [
+      "DASH"
+    ],
+    "wikipedia_titles": [
+      "DoorDash"
+    ]
+  },
+  {
+    "cik": "0001811074",
+    "issuer": "TPL",
+    "canonical_name": "Texas Pacific Land Corporation",
+    "tickers": [
+      "TPL"
+    ],
+    "wikipedia_titles": [
+      "Texas Pacific Land Corporation"
+    ]
+  },
+  {
+    "cik": "0001841666",
+    "issuer": "APA",
+    "canonical_name": "APA Corporation",
+    "tickers": [
+      "APA"
+    ],
+    "wikipedia_titles": [
+      "APA Corporation"
+    ]
+  },
+  {
+    "cik": "0001858681",
+    "issuer": "APO",
+    "canonical_name": "Apollo Global Management",
+    "tickers": [
+      "APO"
+    ],
+    "wikipedia_titles": [
+      "Apollo Global Management"
+    ]
+  },
+  {
+    "cik": "0001868275",
+    "issuer": "CEG",
+    "canonical_name": "Constellation Energy",
+    "tickers": [
+      "CEG"
+    ],
+    "wikipedia_titles": [
+      "Constellation Energy"
+    ]
+  },
+  {
+    "cik": "0001932393",
+    "issuer": "GEHC",
+    "canonical_name": "GE HealthCare",
+    "tickers": [
+      "GEHC"
+    ],
+    "wikipedia_titles": [
+      "GE HealthCare"
+    ]
+  },
+  {
+    "cik": "0001944048",
+    "issuer": "KVUE",
+    "canonical_name": "Kenvue",
+    "tickers": [
+      "KVUE"
+    ],
+    "wikipedia_titles": [
+      "Kenvue"
+    ]
+  },
+  {
+    "cik": "0001964738",
+    "issuer": "SOLV",
+    "canonical_name": "Solventum",
+    "tickers": [
+      "SOLV"
+    ],
+    "wikipedia_titles": [
+      "Solventum"
+    ]
+  },
+  {
+    "cik": "0001967680",
+    "issuer": "VLTO",
+    "canonical_name": "Veralto",
+    "tickers": [
+      "VLTO"
+    ],
+    "wikipedia_titles": [
+      "Veralto"
+    ]
+  },
+  {
+    "cik": "0001973266",
+    "issuer": "TKO",
+    "canonical_name": "TKO Group Holdings",
+    "tickers": [
+      "TKO"
+    ],
+    "wikipedia_titles": [
+      "TKO Group Holdings"
+    ]
+  },
+  {
+    "cik": "0001996810",
+    "issuer": "GEV",
+    "canonical_name": "GE Vernova",
+    "tickers": [
+      "GEV"
+    ],
+    "wikipedia_titles": [
+      "GE Vernova"
+    ]
+  },
+  {
+    "cik": "0001996862",
+    "issuer": "BG",
+    "canonical_name": "Bunge Global",
+    "tickers": [
+      "BG"
+    ],
+    "wikipedia_titles": [
+      "Bunge Global"
+    ]
+  },
+  {
+    "cik": "0002005951",
+    "issuer": "SW",
+    "canonical_name": "Smurfit Westrock",
+    "tickers": [
+      "SW"
+    ],
+    "wikipedia_titles": [
+      "Smurfit Westrock"
+    ]
+  },
+  {
+    "cik": "0002012383",
+    "issuer": "BLK",
+    "canonical_name": "BlackRock",
+    "tickers": [
+      "BLK"
+    ],
+    "wikipedia_titles": [
+      "BlackRock"
+    ]
+  },
+  {
+    "cik": "0002023554",
+    "issuer": "SNDK",
+    "canonical_name": "Sandisk",
+    "tickers": [
+      "SNDK"
+    ],
+    "wikipedia_titles": [
+      "Sandisk"
+    ]
+  },
+  {
+    "cik": "0002041610",
+    "issuer": "PSKY",
+    "canonical_name": "Paramount Skydance Corporation",
+    "tickers": [
+      "PSKY"
+    ],
+    "wikipedia_titles": [
+      "Paramount Skydance"
+    ]
+  },
+  {
+    "cik": "0002058873",
+    "issuer": "Q",
+    "canonical_name": "Qnity Electronics",
+    "tickers": [
+      "Q"
+    ],
+    "wikipedia_titles": [
+      "Qnity Electronics"
+    ]
+  },
+  {
+    "cik": "0002082247",
+    "issuer": "FDXF",
+    "canonical_name": "FedEx Freight",
+    "tickers": [
+      "FDXF"
+    ],
+    "wikipedia_titles": [
+      "FedEx Freight"
+    ]
+  }
+]

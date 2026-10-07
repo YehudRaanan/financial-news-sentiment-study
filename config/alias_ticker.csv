@@ -1,0 +1,689 @@
+alias,ticker
+3m,MMM
+BK,BNY
+CHK,EXE
+FI,FISV
+MMC,MRSH
+PARA,PSKY
+PARAA,PSKY
+SKG,SW
+SQ,XYZ
+WRK,SW
+a o smith,AOS
+abbott laboratories,ABT
+abbvie,ABBV
+accenture,ACN
+adobe,ADBE
+adobe inc,ADBE
+advanced micro devices,AMD
+aes,AES
+aes corp,AES
+aes corporation,AES
+aflac,AFL
+agilent technologies,A
+air products,APD
+airbnb,ABNB
+akamai technologies,AKAM
+albemarle,ALB
+albemarle corporation,ALB
+alexandria real estate equities,ARE
+align technology,ALGN
+allegion,ALLE
+alliant energy,LNT
+allstate,ALL
+alphabet,GOOG
+alphabet,GOOGL
+alphabet inc class a,GOOGL
+alphabet inc class c,GOOG
+altria,MO
+amazon,AMZN
+amcor,AMCR
+ameren,AEE
+american electric power,AEP
+american express,AXP
+american international,AIG
+american international group,AIG
+american tower,AMT
+american water works,AWK
+ameriprise financial,AMP
+ametek,AME
+amgen,AMGN
+amphenol,APH
+analog devices,ADI
+aon,AON
+aon plc,AON
+apa,APA
+apa corporation,APA
+apollo global management,APO
+apple,AAPL
+apple inc,AAPL
+applied materials,AMAT
+applovin,APP
+aptiv,APTV
+arch capital,ACGL
+arch capital group,ACGL
+archer daniels midland,ADM
+ares management,ARES
+arista networks,ANET
+arthur j gallagher,AJG
+arthur j gallagher and co,AJG
+arthur j gallagher co,AJG
+assurant,AIZ
+at and t,T
+at t,T
+atmos energy,ATO
+autodesk,ADSK
+automatic data processing,ADP
+autozone,AZO
+avalonbay communities,AVB
+avery dennison,AVY
+axon enterprise,AXON
+baker hughes,BKR
+ball,BALL
+ball corporation,BALL
+bank of america,BAC
+bank of new york mellon,BNY
+baxter international,BAX
+becton dickinson,BDX
+berkshire hathaway,BRK.B
+best buy,BBY
+bio techne,TECH
+biogen,BIIB
+blackrock,BLK
+blackstone,BX
+blackstone inc,BX
+block,XYZ
+block inc,XYZ
+bny mellon,BNY
+boeing,BA
+booking,BKNG
+booking holdings,BKNG
+boston properties,BXP
+boston scientific,BSX
+bristol myers squibb,BMY
+broadcom,AVGO
+broadridge financial solutions,BR
+brown and brown,BRO
+brown brown,BRO
+brown forman,BF.B
+brownforman,BF.B
+builders firstsource,BLDR
+bunge global,BG
+bunge limited,BG
+bunge ltd,BG
+bxp,BXP
+bxp inc,BXP
+c h robinson,CHRW
+c h robinson worldwide,CHRW
+cadence design systems,CDNS
+camden property trust,CPT
+campbell,CPB
+campbell company the,CPB
+capital one,COF
+cardinal health,CAH
+carnival,CCL
+carnival corporation,CCL
+carrier global,CARR
+carvana,CVNA
+casey,CASY
+casey general stores,CASY
+caterpillar,CAT
+caterpillar inc,CAT
+cboe global markets,CBOE
+cbre,CBRE
+cbre group,CBRE
+cdw,CDW
+cdw corp,CDW
+cdw corporation,CDW
+cencora,COR
+centene,CNC
+centene corporation,CNC
+centerpoint energy,CNP
+cf industries,CF
+ch robinson worldwide,CHRW
+charles river laboratories,CRL
+charles schwab,SCHW
+charles schwab corporation,SCHW
+charter communications,CHTR
+chesapeake energy,EXE
+chevron,CVX
+chevron corporation,CVX
+chipotle mexican grill,CMG
+chubb,CB
+chubb limited,CB
+church and dwight,CHD
+church dwight,CHD
+ciena,CIEN
+cigna,CI
+cincinnati financial,CINF
+cintas,CTAS
+cisco,CSCO
+citigroup,C
+citizens financial,CFG
+citizens financial group,CFG
+clorox,CLX
+cme,CME
+cme group,CME
+cms energy,CMS
+coca cola,KO
+coca cola company the,KO
+cognizant,CTSH
+coherent,COHR
+coherent corp,COHR
+coinbase,COIN
+colgate palmolive,CL
+comcast,CMCSA
+comfort systems,FIX
+comfort systems usa,FIX
+conagra brands,CAG
+conocophillips,COP
+consolidated edison,ED
+constellation brands,STZ
+constellation energy,CEG
+cooper,COO
+cooper companies the,COO
+copart,CPRT
+corning,GLW
+corning inc,GLW
+corpay,CPAY
+corteva,CTVA
+costar,CSGP
+costar group,CSGP
+costco,COST
+crh,CRH
+crh plc,CRH
+crowdstrike,CRWD
+crown castle,CCI
+csx,CSX
+csx corporation,CSX
+cummins,CMI
+cvs health,CVS
+d r horton,DHI
+danaher,DHR
+danaher corporation,DHR
+darden restaurants,DRI
+datadog,DDOG
+davita,DVA
+deckers brands,DECK
+deere,DE
+deere and company,DE
+deere company,DE
+dell technologies,DELL
+delta air lines,DAL
+devon energy,DVN
+dexcom,DXCM
+diamondback energy,FANG
+digital realty,DLR
+dollar general,DG
+dollar tree,DLTR
+dominion energy,D
+domino,DPZ
+domino pizza,DPZ
+doordash,DASH
+dover,DOV
+dover corporation,DOV
+dow,DOW
+dow inc,DOW
+dte energy,DTE
+duke energy,DUK
+dupont,DD
+eaton,ETN
+eaton corporation,ETN
+ebay,EBAY
+ebay inc,EBAY
+echostar,SATS
+ecolab,ECL
+edison international,EIX
+edwards lifesciences,EW
+electronic arts,EA
+elevance health,ELV
+eli lilly,LLY
+emcor,EME
+emerson electric,EMR
+entergy,ETR
+eog resources,EOG
+eqt,EQT
+eqt corp,EQT
+eqt corporation,EQT
+equifax,EFX
+equinix,EQIX
+equity residential,EQR
+erie indemnity,ERIE
+essex property trust,ESS
+estee lauder,EL
+estee lauder companies the,EL
+everest,EG
+everest group,EG
+evergy,EVRG
+eversource energy,ES
+exelon,EXC
+expand energy,EXE
+expedia,EXPE
+expedia group,EXPE
+expeditors international,EXPD
+extra space storage,EXR
+exxonmobil,XOM
+f5,FFIV
+f5 inc,FFIV
+facebook,META
+factset,FDS
+factset research,FDS
+fair isaac,FICO
+fastenal,FAST
+federal realty investment trust,FRT
+fedex,FDX
+fedex freight,FDXF
+fidelity national information services,FIS
+fifth third bancorp,FITB
+first solar,FSLR
+firstenergy,FE
+fiserv,FISV
+ford motor,F
+ford motor company,F
+fortinet,FTNT
+fortive,FTV
+fox,FOX
+fox,FOXA
+fox corp,FOX
+fox corp,FOXA
+fox corporation,FOX
+fox corporation,FOXA
+fox corporation class a,FOXA
+fox corporation class b,FOX
+franklin resources,BEN
+freeport mcmoran,FCX
+garmin,GRMN
+gartner,IT
+ge aerospace,GE
+ge healthcare,GEHC
+ge vernova,GEV
+gen digital,GEN
+generac,GNRC
+general dynamics,GD
+general electric,GE
+general mills,GIS
+general motors,GM
+genuine parts,GPC
+genuine parts company,GPC
+gilead sciences,GILD
+global payments,GPN
+globe life,GL
+godaddy,GDDY
+goldman sachs,GS
+google,GOOG
+google,GOOGL
+halliburton,HAL
+hartford,HIG
+hartford the,HIG
+hasbro,HAS
+hca healthcare,HCA
+healthpeak properties,DOC
+henry schein,HSIC
+hershey,HSY
+hershey company the,HSY
+hewlett packard enterprise,HPE
+hilton worldwide,HLT
+home depot,HD
+home depot the,HD
+honeywell,HON
+hormel foods,HRL
+host hotels and resorts,HST
+host hotels resorts,HST
+howmet aerospace,HWM
+hp,HPQ
+hp inc,HPQ
+hubbell,HUBB
+hubbell incorporated,HUBB
+humana,HUM
+huntington bancshares,HBAN
+huntington ingalls industries,HII
+ibm,IBM
+idex,IEX
+idex corporation,IEX
+idexx laboratories,IDXX
+illinois tool works,ITW
+incyte,INCY
+ingersoll rand,IR
+insulet,PODD
+insulet corporation,PODD
+intel,INTC
+interactive brokers,IBKR
+intercontinental exchange,ICE
+international flavors and fragrances,IFF
+international flavors fragrances,IFF
+international paper,IP
+intuit,INTU
+intuitive surgical,ISRG
+invesco,IVZ
+invitation homes,INVH
+iqvia,IQV
+iron mountain,IRM
+j b hunt,JBHT
+j b hunt transport,JBHT
+j m smucker,SJM
+j m smucker company the,SJM
+jabil,JBL
+jack henry and associates,JKHY
+jack henry associates,JKHY
+jacobs solutions,J
+jb hunt transport,JBHT
+johnson and johnson,JNJ
+johnson controls,JCI
+johnson johnson,JNJ
+jpmorgan chase,JPM
+kenvue,KVUE
+keurig dr pepper,KDP
+keycorp,KEY
+keysight technologies,KEYS
+kimberly clark,KMB
+kimco realty,KIM
+kinder morgan,KMI
+kkr,KKR
+kkr and co,KKR
+kkr co,KKR
+kla,KLAC
+kla corporation,KLAC
+kraft heinz,KHC
+kroger,KR
+l3harris,LHX
+labcorp,LH
+lam research,LRCX
+las vegas sands,LVS
+leidos,LDOS
+lennar,LEN
+lennox international,LII
+lilly eli,LLY
+linde,LIN
+linde plc,LIN
+live nation entertainment,LYV
+lockheed martin,LMT
+loews,L
+loews corporation,L
+lowe,LOW
+lululemon athletica,LULU
+lumentum,LITE
+lyondellbasell,LYB
+m and t bank,MTB
+m t bank,MTB
+marathon petroleum,MPC
+marriott international,MAR
+marsh mclennan,MRSH
+martin marietta materials,MLM
+masco,MAS
+mastercard,MA
+mccormick,MKC
+mccormick and company,MKC
+mccormick company,MKC
+mcdonald,MCD
+mckesson,MCK
+mckesson corporation,MCK
+medtronic,MDT
+merck,MRK
+merck and co,MRK
+merck co,MRK
+meta,META
+meta platforms,META
+metlife,MET
+mettler toledo,MTD
+mgm resorts,MGM
+microchip technology,MCHP
+micron technology,MU
+microsoft,MSFT
+mid america apartment communities,MAA
+moderna,MRNA
+molson coors beverage,TAP
+molson coors beverage company,TAP
+mondelez international,MDLZ
+monolithic power systems,MPWR
+monster beverage,MNST
+moody,MCO
+moody corporation,MCO
+morgan stanley,MS
+mosaic,MOS
+mosaic company the,MOS
+motorola solutions,MSI
+msci,MSCI
+msci inc,MSCI
+nasdaq,NDAQ
+nasdaq inc,NDAQ
+netapp,NTAP
+netflix,NFLX
+newmont,NEM
+news,NWS
+news,NWSA
+news corp,NWS
+news corp,NWSA
+news corp class a,NWSA
+news corp class b,NWS
+nextera energy,NEE
+nike,NKE
+nike inc,NKE
+nisource,NI
+nordson,NDSN
+nordson corporation,NDSN
+norfolk southern,NSC
+northern trust,NTRS
+northrop grumman,NOC
+norwegian cruise line,NCLH
+norwegian cruise line holdings,NCLH
+nrg energy,NRG
+nucor,NUE
+nvidia,NVDA
+nvr,NVR
+nvr inc,NVR
+nxp semiconductors,NXPI
+o reilly automotive,ORLY
+occidental petroleum,OXY
+old dominion,ODFL
+old dominion freight,ODFL
+omnicom,OMC
+omnicom group,OMC
+on semiconductor,ON
+oneok,OKE
+oracle,ORCL
+oracle corporation,ORCL
+oreilly automotive,ORLY
+otis worldwide,OTIS
+paccar,PCAR
+packaging corporation of america,PKG
+palantir technologies,PLTR
+palo alto networks,PANW
+paramount global,PSKY
+paramount skydance,PSKY
+paramount skydance corporation,PSKY
+parker hannifin,PH
+paychex,PAYX
+paypal,PYPL
+pentair,PNR
+pepsico,PEP
+pfizer,PFE
+pg and e,PCG
+pg and e corporation,PCG
+pg e,PCG
+pg e corporation,PCG
+philip morris,PM
+philip morris international,PM
+phillips 66,PSX
+pinnacle west capital,PNW
+pnc financial services,PNC
+pool,POOL
+pool corporation,POOL
+ppg industries,PPG
+ppl,PPL
+ppl corporation,PPL
+principal financial,PFG
+principal financial group,PFG
+procter and gamble,PG
+procter gamble,PG
+progressive,PGR
+progressive corporation,PGR
+prologis,PLD
+prudential financial,PRU
+ptc,PTC
+ptc inc,PTC
+public service enterprise,PEG
+public service enterprise group,PEG
+public storage,PSA
+pultegroup,PHM
+qnity electronics,Q
+qualcomm,QCOM
+quanta services,PWR
+quest diagnostics,DGX
+ralph lauren,RL
+ralph lauren corporation,RL
+raymond james financial,RJF
+realty income,O
+regency centers,REG
+regeneron pharmaceuticals,REGN
+regions financial,RF
+regions financial corporation,RF
+republic services,RSG
+resmed,RMD
+revvity,RVTY
+robinhood markets,HOOD
+rockwell automation,ROK
+rollins,ROL
+rollins inc,ROL
+roper technologies,ROP
+ross stores,ROST
+royal caribbean,RCL
+royal caribbean group,RCL
+rtx,RTX
+rtx corporation,RTX
+s and p global,SPGI
+s p global,SPGI
+salesforce,CRM
+sandisk,SNDK
+sba communications,SBAC
+schlumberger,SLB
+seagate technology,STX
+sempra,SRE
+servicenow,NOW
+sherwin williams,SHW
+simon property,SPG
+simon property group,SPG
+skyworks solutions,SWKS
+smurfit kappa,SW
+smurfit westrock,SW
+snap on,SNA
+solventum,SOLV
+southern,SO
+southern company,SO
+southwest airlines,LUV
+stanley black and decker,SWK
+stanley black decker,SWK
+starbucks,SBUX
+state street,STT
+state street corporation,STT
+steel dynamics,STLD
+steris,STE
+stryker,SYK
+stryker corporation,SYK
+supermicro,SMCI
+synchrony financial,SYF
+synopsys,SNPS
+sysco,SYY
+t mobile,TMUS
+t mobile us,TMUS
+t rowe price,TROW
+take two interactive,TTWO
+tapestry,TPR
+tapestry inc,TPR
+targa resources,TRGP
+target,TGT
+target corporation,TGT
+te connectivity,TEL
+teledyne technologies,TDY
+teradyne,TER
+tesla,TSLA
+tesla inc,TSLA
+texas instruments,TXN
+texas pacific land,TPL
+texas pacific land corporation,TPL
+textron,TXT
+thermo fisher scientific,TMO
+tjx,TJX
+tjx companies,TJX
+tko,TKO
+tko group holdings,TKO
+tractor supply,TSCO
+trade desk,TTD
+trade desk the,TTD
+trane technologies,TT
+transdigm,TDG
+transdigm group,TDG
+travelers,TRV
+travelers companies the,TRV
+trimble,TRMB
+trimble inc,TRMB
+truist financial,TFC
+tyler technologies,TYL
+tyson foods,TSN
+u s bancorp,USB
+uber,UBER
+udr,UDR
+udr inc,UDR
+ulta beauty,ULTA
+union pacific,UNP
+union pacific corporation,UNP
+united,UAL
+united airlines,UAL
+united airlines holdings,UAL
+united parcel service,UPS
+united rentals,URI
+unitedhealth,UNH
+unitedhealth group,UNH
+universal health services,UHS
+us bancorp,USB
+valero energy,VLO
+veeva systems,VEEV
+ventas,VTR
+veralto,VLTO
+verisign,VRSN
+verisk analytics,VRSK
+verizon,VZ
+vertex pharmaceuticals,VRTX
+vertiv,VRT
+viatris,VTRS
+vici properties,VICI
+visa,V
+visa inc,V
+vistra,VST
+vistra corp,VST
+vulcan materials,VMC
+vulcan materials company,VMC
+w r berkley,WRB
+w r berkley corporation,WRB
+w w grainger,GWW
+wabtec,WAB
+walmart,WMT
+walt disney,DIS
+walt disney company the,DIS
+warner bros discovery,WBD
+waste management,WM
+waters,WAT
+waters corporation,WAT
+wec energy,WEC
+wec energy group,WEC
+wells fargo,WFC
+welltower,WELL
+west pharmaceutical services,WST
+western digital,WDC
+westrock,SW
+weyerhaeuser,WY
+williams,WMB
+williams companies,WMB
+williams sonoma,WSM
+williams sonoma inc,WSM
+willis towers watson,WTW
+workday,WDAY
+workday inc,WDAY
+ww grainger,GWW
+wynn resorts,WYNN
+xcel energy,XEL
+xylem,XYL
+xylem inc,XYL
+yum brands,YUM
+zebra technologies,ZBRA
+zimmer biomet,ZBH
+zoetis,ZTS

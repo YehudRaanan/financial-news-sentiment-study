@@ -1,0 +1,89 @@
+{
+  "validated_utc": "2026-10-07T13:55:00Z",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "python": "3.12.7",
+  "environment": {
+    "lockfile_install_all_extras": "pass",
+    "optional_imports": "pass",
+    "packages": {
+      "pandas": "2.3.1",
+      "numpy": "2.4.6",
+      "pyarrow": "24.0.0",
+      "google-cloud-bigquery": "3.38.0",
+      "db-dtypes": "1.7.2",
+      "trafilatura": "1.12.2",
+      "refined": "1.0",
+      "torch": "2.7.1",
+      "transformers": "4.56.2",
+      "yfinance": "1.2.1",
+      "pytest": "9.0.2",
+      "ruff": "0.15.6"
+    }
+  },
+  "offline": {
+    "ruff": "pass",
+    "pytest": "10 passed",
+    "example_inputs_rebuilt_byte_for_byte": true,
+    "regression_outputs_finite": true,
+    "figures_created_and_opened": 15,
+    "minimum_figure_bytes": 37009
+  },
+  "configuration": {
+    "company_identities": 500,
+    "issuer_sector_rows": 500,
+    "price_ticker_rows": 500,
+    "alias_ticker_pairs": 688,
+    "sha256": {
+      "alias_ticker.csv": "6ed3f86d70349a00f4494c1178d3d10ea34e8e9564fa14e78a94408966551620",
+      "company_registry.json": "42bec9fa01c8175111d4c972daa527b08aa594b7f77fa346080ca607a94c38ca",
+      "company_sectors.csv": "70344e1c91d6381b158c3cdce72dbf28e64884e90fc2d003a2ba5643ef9a5e05",
+      "price_tickers.csv": "9e572634ebfc6d3f223d7e2916f8bce0cb0f433ff3105c22bb0f07e6a74d7cbd"
+    }
+  },
+  "live_smoke": {
+    "gdelt": {
+      "status": "pass",
+      "period": "2025-06-01",
+      "aliases": 2,
+      "records": 3,
+      "returned_tickers": 2,
+      "url_fallback_enabled": true,
+      "estimated_bytes_processed": 90534057,
+      "billing_cap_bytes": 5000000000
+    },
+    "article_extraction": {
+      "status": "pass",
+      "requested_pages": 3,
+      "extracted_pages": 3
+    },
+    "refined": {
+      "status": "pass",
+      "model": "aida_model",
+      "entity_set": "wikipedia",
+      "articles": 1,
+      "registry_links": 2
+    },
+    "jev": {
+      "status": "pass",
+      "model": "jev-1.13.0",
+      "calls": 1,
+      "retries": 0,
+      "response_contract_validated": true
+    },
+    "yahoo_finance": {
+      "status": "pass",
+      "tickers": 2,
+      "rows": 12,
+      "finite_open_close": true
+    }
+  },
+  "excluded": [
+    "credentials",
+    "URLs",
+    "article text",
+    "raw provider responses",
+    "price values",
+    "logs",
+    "full research data"
+  ]
+}

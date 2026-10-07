@@ -19,6 +19,8 @@ One row per completed article-company assessment:
 - `pair_id`, `article_id`, `issuer`, `date`, `domain`
 - `label`: `positive`, `negative`, `mix`, or `none`
 - `positive`, `negative`, `mix`, `none`: saved category probabilities, each from 0 to 1 and summing to 1 within 0.021
+- `confidence`: the provider's separate confidence value for the selected category
+- `input_tokens`, `output_tokens`: provider-reported usage for the article request
 
 ## `analysis_panel.csv`
 

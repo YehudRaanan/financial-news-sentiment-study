@@ -114,10 +114,10 @@ def _adjusted_return(
         return None
     entry = window[0]
     entry_position = sessions.get_loc(entry)
-    history_end = entry_position - settings.history_gap_sessions
-    if history_end <= 0:
+    history_stop = entry_position - settings.history_gap_sessions + 1
+    if history_stop <= 0:
         return None
-    history_dates = sessions[max(0, history_end - settings.history_sessions) : history_end]
+    history_dates = sessions[max(0, history_stop - settings.history_sessions) : history_stop]
     exposure = _fit_exposures(indexed.reindex(history_dates), settings)
     if exposure is None:
         return None
